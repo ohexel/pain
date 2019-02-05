@@ -1,0 +1,1522 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Kim, HS
+   Neubert, JK
+   Miguel, AS
+   Xu, K
+   Krishnaraju, RK
+   Iadarola, MJ
+   Goldman, D
+   Dionne, RA
+AF Kim, HS
+   Neubert, JK
+   Miguel, AS
+   Xu, K
+   Krishnaraju, RK
+   Iadarola, MJ
+   Goldman, D
+   Dionne, RA
+TI Genetic influence on variability in human acute experimental pain
+   sensitivity associated with gender, ethnicity and psychological
+   temperament
+SO PAIN
+AB While a variety of cultural, psychological and physiological factors contribute to variability in both clinical and experimental contexts, the role of genetic factors in human pain sensitivity is increasingly recognized as an important element. This study was performed to evaluate genetic influences on variability in human pain sensitivity associated with gender, ethnicity and temperament. Pain sensitivity in response to experimental painful thermal and cold stimuli was measured with visual analogue scale ratings and temperament dimensions of personality were evaluated. Loci in the vanilloid receptor subtype I gene (TRPV1), delta opioid receptor subtype I gene (OPRD2) and catechol O-methyltransferase gene (COMT) were genotyped using 5' nuclease assays. A total of 500 normal participants (306 females and 194 males) were evaluated. The sample composition was 62.0% European American, 17.4% African American, 9.0% Asian American, and 8.6% Hispanic, and 3.0% individuals with mixed racial parentage. Female European Americans with the TRPV1 Val(585) Val allele and males with low harm avoidance showed longer cold withdrawal times based on the classification and regression tree (CART) analysis. CART identified gender, an OPRD1 polymorphism and temperament dimensions of personality as the primary determinants of heat pain sensitivity at 49 degreesC. Our observations demonstrate that gender, ethnicity and temperament contribute to individual variation in thermal and cold pain sensitivity by interactions with TRPV1 and OPRD1 single nucleotide polymorphisms. (C) 2004 Published by Elsevier B.V. on behalf of International Association for the Study of Pain.
+RI Goldman, David/F-9772-2010
+OI Goldman, David/0000-0002-1724-5405
+SN 0304-3959
+EI 1872-6623
+PD JUN
+PY 2004
+VL 109
+IS 3
+BP 488
+EP 496
+DI 10.1016/j.pain.2004.02.027
+UT WOS:000222039400034
+PM 15157710
+ER
+
+PT J
+AU Daniell, HW
+AF Daniell, HW
+TI Hypogonadism in men consuming sustained-action oral opioids
+SO JOURNAL OF PAIN
+CT 16th Annual Meeting of the Society-for-Ambulatory-Anesthesia
+CY MAY 03-06, 2001
+CL INDIAN WELLS, CALIFORNIA
+SP Soc Ambulatory Anesthesia
+AB Naturally occurring opiates (endorphins) diminish testosterone levels by inhibiting both hypothalamic gonadotrophin releasing hormone production and testicular testosterone synthesis. Heroin addicts treated with a single daily dose of methadone and nonaddicts receiving continuous intrathecal opioids quickly develop low luteinizing hormone and total testosterone levels. A similar pattern was sought in men consuming commonly prescribed oral opioids. Free testosterone (FT), total testosterone (TT), estradiol (E-2), dihydrotestosterone (DHT), luteinizing hormone (LH), and follicle-stimulating hormone (FSH) were measured in 54 community-dwelling outpatient men consuming oral sustained-action dosage forms of opioids several times daily for control of nonmalignant pain. Hormone levels were related to the opioid consumed, dosage and dosage form, nonopioid medication use, and several personal characteristics and were compared with the hormone analyses of 27 similar men consuming no opioids. Hormone levels averaged much lower in opioid users than in control subjects in a dose-related pattern (P < .0001 for all comparisons). FT, TT, and E-2 levels were subnormal in 56%, 74%, and 74%, respectively, of opioid consumers. Forty-eight men (89%) exhibited subnormal levels of either FT or E-2. Either TT or E-2 level was subnormal in all 28 men consuming the equivalent of 100 mg of methadone daily and in 19 of 26 (73%) consuming smaller opioid doses. Eighty-seven percent (39 of 45) of opioid-ingesting men who reported normal erectile function before opioid use reported severe erectile dysfunction or diminished libido after beginning their opioid therapy. Commonly prescribed opioids in sustained-action dosage forms usually produce subnormal sex hormone levels, which may contribute to a diminished quality of life for many patients with painful chronic illness. (C) 2002 by the American Pain Society.
+SN 1526-5900
+PD OCT
+PY 2002
+VL 3
+IS 5
+BP 377
+EP 384
+DI 10.1054/jpai.2002.126790
+UT WOS:000178599500008
+PM 14622741
+ER
+
+PT J
+AU MOGIL, JS
+   STERNBERG, WF
+   KEST, B
+   MAREK, P
+   LIEBESKIND, JC
+AF MOGIL, JS
+   STERNBERG, WF
+   KEST, B
+   MAREK, P
+   LIEBESKIND, JC
+TI SEX-DIFFERENCES IN THE ANTAGONISM OF SWIM STRESS-INDUCED ANALGESIA -
+   EFFECTS OF GONADECTOMY AND ESTROGEN REPLACEMENT
+SO PAIN
+AB Sex differences in the neurochemical mediation of swim stress-induced analgesia (SSIA) were examined in Swiss-Webster mice. Intact and gonadectomized adult mice of both sexes were tested for their analgesic response (hot-plate test) to 3 min of forced swimming in 15-degrees-C and 20-degrees-C water. SSIA resulting from 15-degrees-C swim was previously shown to be naloxone-insensitive (i.e., non-opioid) whereas SSIA resulting from 20-degrees-C swim produced an analgesia that was partially reversible by naloxone (i.e., mixed opioid/non-opioid). The non-opioid components of these SSIA paradigms were attenuated by the N-methyl-D-aspartate (NMDA) receptor antagonist, dizocilpine (MK-801). We now report that in males, but not females, dizocilpine (0.075 mg/kg, i.p.) and naloxone (10 mg/kg, i.p.) antagonized the non-opioid and opioid components of SSIA, respectively. After ovariectomy, females displayed a pattern of antagonism similar to males such that dizocilpine attenuated non-opioid SSIA, although naloxone remained ineffective in antagonizing 20-degrees-C SSIA. Thus, SSIA in intact females was neither opioid- nor NMDA-mediated, yet it was of similar magnitude to the SSIA displayed by intact males. In separate experiments, estrogen replacement (estrogen benzoate; 5.0 mug/day, i.p.) administered to ovariectomized mice over a 6-8 day period reinstated the dizocilpine-insensitivity of 15-degrees-C SSIA characteristic of intact females. However, a similar estrogen regimen administered to both intact and castrated males did not compromise the sensitivity to dizocilpine previously noted in male mice. These findings suggest the existence of a novel female-specific estrogen-dependent mechanism of SSIA and highlight the need to consider gender as a factor in basic and clinical research in this area.
+SN 0304-3959
+PD APR
+PY 1993
+VL 53
+IS 1
+BP 17
+EP 25
+DI 10.1016/0304-3959(93)90050-Y
+UT WOS:A1993LB10200003
+PM 8316385
+ER
+
+PT J
+AU Gear, RW
+   Miaskowski, C
+   Gordon, NC
+   Paul, SM
+   Heller, PH
+   Levine, JD
+AF Gear, RW
+   Miaskowski, C
+   Gordon, NC
+   Paul, SM
+   Heller, PH
+   Levine, JD
+TI The kappa opioid nalbuphine produces gender- and dose-dependent
+   analgesia and antianalgesia in patients with postoperative pain
+SO PAIN
+AB Nalbuphine, pentazocine, and butorphanol, mixed agonist/antagonist opioids that induce analgesia by acting predominantly at kappa opioid receptors, have recently been shown in single-dose studies to have greater analgesic efficacy in women than in men. In the current experiments, the first placebo controlled dose response study of opioid analgesic efficacy that examines for gender differences, nalbuphine (5, 10, or 20 mg) and placebo were evaluated in 62 men and 69 women for the treatment of moderate to severe postoperative pain following extraction of impacted wisdom teeth. In a randomized, open injection, double blind experimental design, pain intensity was recorded on a 10 cm visual analog scale (VAS) immediately prior to drug administration (baseline) and at 20 min intervals thereafter. Although responses to placebo were similar in men and women, for all doses of nalbuphine women exhibited significantly greater analgesic response than men, compatible with our previous results. Unexpectedly, men receiving the 5 mg dose of nalbuphine experienced significantly greater pain than those receiving placebo; only the 20 mg dose of nalbuphine in men produced significant analgesia compared to placebo. While a similar antianalgesic effect was not observed in women, only the 10 mg dose of nalbuphine produced significant analgesia compared to placebo. These results suggest that the optimal analgesic dose of nalbuphine for women is lower than the highest dose that can be safely administered. In contrast, the antianalgesic effect of nalbuphine suggests avoidance of its routine use for postoperative analgesia in men until further studies clarify this issue. Because gender differences in other mixed kappa agonists/antagonists (i.e. pentazocine and butorphanol) have previously been shown, these results may generally apply to this class of opioid analgesics. (C) 1999 International Association for the Study of Pain. Published by Elsevier Science B.V.
+SN 0304-3959
+PD NOV
+PY 1999
+VL 83
+IS 2
+BP 339
+EP 345
+DI 10.1016/S0304-3959(99)00119-0
+UT WOS:000083554500026
+PM 10534607
+ER
+
+PT J
+AU KEPLER, KL
+   STANDIFER, KM
+   PAUL, D
+   KEST, B
+   PASTERNAK, GW
+   BODNAR, RJ
+AF KEPLER, KL
+   STANDIFER, KM
+   PAUL, D
+   KEST, B
+   PASTERNAK, GW
+   BODNAR, RJ
+TI GENDER EFFECTS AND CENTRAL OPIOID ANALGESIA
+SO PAIN
+AB Central morphine analgesia is significantly greater in male than in female rats.  Since mu and delta opioid receptor subtypes have been implicated in supraspinal analgesia, the present study evaluated whether gender or adult gonadectomy altered (a) analgesia on the tail-flick and jump tests following central administration of the mu-selective agonist, [D-Ala2, Me-Phe4, Gly(ol)5] enkephalin (DAMGO) and the delta-selective agonist, [D-Ser2, Leu5] enkephalin-Thr (DSLET) and (b) mu1, mu2 and delta opioid receptor binding.  Sham-operated male rats displayed significantly greater magnitudes of peak and total analgesia than sham-operated females on the tail-flick test following DAMGO, but not DSLET.  Gender differences were not observed for DAMGO and DSLET analgesia on the jump test.  Gonadectomy failed to consistently affect either DAMGO or DSLET analgesia.  Regression analyses failed to reflect significant shifts in the dose-response functions for either agonists or either measure.  Gender differences were not observed for mu1, mu2, or delta binding in hypothalamus or cortex.  These data are compared with analgesic responses sensitive to gender differences.
+OI Paul, Dennis/0000-0003-4858-5450
+SN 0304-3959
+PD APR
+PY 1991
+VL 45
+IS 1
+BP 87
+EP 94
+DI 10.1016/0304-3959(91)90168-W
+UT WOS:A1991FJ99300013
+PM 1677751
+ER
+
+PT J
+AU Bragdon, EE
+   Light, KC
+   Costello, NL
+   Sigurdsson, A
+   Bunting, S
+   Bhalang, K
+   Maixner, W
+AF Bragdon, EE
+   Light, KC
+   Costello, NL
+   Sigurdsson, A
+   Bunting, S
+   Bhalang, K
+   Maixner, W
+TI Group differences in pain modulation: pain-free women compared to
+   pain-free men and to women with TMD
+SO PAIN
+AB Previously reported differences in sensitivity to experimental pain stimuli between the sexes, as well as between temporomandibular disorder (TMD) patients and healthy control subjects, may be attributable in part to group differences in two pain modulatory mechanisms: the baroreceptor reflex arc and the endogenous opioid system. Twenty-two pain-free (PF) men, 20 PF women and 20 women with TMD underwent two testing sessions in which heat pain and ischemic arm pain threshold and tolerance were measured during both sessions, but followed relaxation during one session and laboratory stress tasks during the other. Blood pressure (BP) and plasma beta-endorphin (betaE) concentration were measured during a baseline rest and during the stress or relaxation periods. PF men's threshold and tolerance for heat pain, but not for ischemic pain, exceeded that of PF women's during both sessions. PF women and TMD women did not differ in sensitivity to either pain modality; however, significantly lower ischemic pain threshold (IPTh) was linked to oral contraceptive use in PF women but not TMD patients. In the men alone, higher baseline systolic BP (SBP) was correlated with higher heat pain threshold on both days and heat pain tolerance on the stress day. Conversely, in TMD women, higher baseline SBP was correlated with lower ischemic pain tolerance (IPTol) on both days; BP and pain sensitivity were not related in PF women. In men, but not in PF or TMD women, stress systolic and diastolic BP were positively correlated with heat pain threshold and tolerance and higher diastolic reactivity to stress were correlated with higher heat pain and IPTh and tolerance. On the stress day, higher baseline betaE level was strongly associated with higher IPTol in PF women but marginally associated with lower IPTol in TMD women. Thus, it appears that a BP-related analgesic mechanism (probably baroreceptor-mediated) predominates in PF men, while an endogenous opioid mechanism predominates in PF women. Stress enhances the expression of these central mechanisms. Female TMDs appear unable to effectively engage normal pain-inhibitory systems; opioid receptor desensitization and/or downregulation are probably implicated, because TMDs' production of betaE appears normal. (C) 2002 International Association for the Study of Pain. Published by Elsevier Science B.V. All rights reserved.
+SN 0304-3959
+PD APR
+PY 2002
+VL 96
+IS 3
+BP 227
+EP 237
+AR PII S0304-3959(01)00451-1
+DI 10.1016/S0304-3959(01)00451-1
+UT WOS:000175758400002
+PM 11972994
+ER
+
+PT J
+AU Tasmuth, T
+   Estlanderb, AM
+   Kalso, E
+AF Tasmuth, T
+   Estlanderb, AM
+   Kalso, E
+TI Effect of present pain and mood on the memory of past postoperative pain
+   in women treated surgically for breast cancer
+SO PAIN
+AB In our recent retrospective study on breast cancer patients, the intensity of the past postoperative pain was a primary factor in predisposing the development of chronic post-treatment pain. The present prospective study was designed to find out if the remembered intensity of postoperative pain (RIPP) after breast surgery was influenced by the development of chronic pain and if the RIPP had any correlation with the development of depression or anxiety. The patient's estimation of the severity of the RIPP was determined three times in the year after surgery. The state anxiety and depression and the presence of pain in the ipsilateral arm were assessed before the operation, and 1, 6 and 12 mos after surgery. Ninety-three consecutive female patients with breast cancer who were enrolled for surgical treatment were recruited to the study during 1993-1994. The patients were treated with modified radical mastectomy with axillary clearance (n = 53) or breast resection with axillary clearance (n = 40). The patients' records were checked for the consumption of analgesics within the first 48 h after surgery. The patients were analysed in three groups according to the presence or absence of preoperative or chronic post-treatment pain. There was a significant correlation between the RIPP and the consumption of both opioids and NSAIDs on the ward. The women who had chronic pain remembered having had more severe postoperative pain compared with those women who had no chronic pain. The RIPP increased with time in the chronic pain patients whereas it decreased in the patients who had no chronic pain. In all patients the preoperatively measured state anxiety and depression scores were higher than in healthy Finnish women. One year after surgery anxiety and depression had returned to normal levels except in the patients who had chronic pain. Their depression remained at a higher level during the first year after surgery. The results suggest that the amount of postoperative pain may play a role in the development of chronic pain. However, the development of chronic pain is connected to a tendency to overestimate previous pain and to higher levels of depression.
+SN 0304-3959
+EI 1872-6623
+PD DEC
+PY 1996
+VL 68
+IS 2-3
+BP 343
+EP 347
+DI 10.1016/S0304-3959(96)03219-8
+UT WOS:A1996WD19900019
+PM 9121823
+ER
+
+PT J
+AU Daniell, HW
+AF Daniell, Harry W.
+TI Opioid endocrinopathy in women consuming prescribed sustained-action
+   opioids for control of nonmalignant pain
+SO JOURNAL OF PAIN
+AB Hypogonadotrophic hypogonadism is characteristically induced in men by intrathecal, transdermal, or sustained-action opioids. Although women receiving intrathecal opioids have similar changes, often accompanied by amenorrhea, hypogonadotrophic hypogonadism has not been documented in women receiving sustained-action, transdermal, or oral opioids. Dehydroepiandrosterone sulfate deficiency, indicating adrenal inhibition, is present in most men and women chronically consuming sustained-action oral or transdermal opioids. We recorded menstrual histories and measured gonadotrophin, androgen, and estradiol levels in 47 women ages 30 to 75 years who were consuming sustained-action oral or transdermal opioids for control of nonmalignant pain and in 68 non-opioid-consuming control subjects. Testosterone, estradiol, and dehydroepiandrosterone sulfate values were 48% to 57% lower in opioid-consuming women with intact ovarian tissue than in control subjects (P <.01-.05). Luteinizing hormone and follicle-stimulating hormone values averaged 30% lower in premenopausal and 70% lower in postmenopausal opioid consumers (P <.001). Among oophorectornized women not consuming estrogen, free testosterone levels were 39% lower in opioid consumers (P <.05), indicating impaired adrenal androgen production. Additional lowering of free testosterone levels was associated independently with oral estrogen replacement and low body mass index. Menses had often ceased soon after beginning sustained-action opioid therapy. Our observations document hypogonaclotrophic hypogonadism plus decreased adrenal androgen production in most women consuming sustained-action oral or transdermal opioids.
+   Perspective: These observations demonstrate profound inhibition of ovarian sex hormone and adrenal androgen production among women chronically consuming sustained-action opioids. Related consequences include altered menstrual flow, probable reduced fertility, and possible contributions to opioid-associated depression, osteoporosis, and hyperalgesia. Measurements of bone density, estradiol, and free testosterone may guide appropriate therapy. (c) 2008 by the American Pain Society.
+OI Daniell, Henry/0000-0003-4485-1176
+SN 1526-5900
+PD JAN
+PY 2008
+VL 9
+IS 1
+BP 28
+EP 36
+DI 10.1016/j.jpain.2007.08.005
+UT WOS:000252488800005
+PM 17936076
+ER
+
+PT J
+AU Girdler, SS
+   Maixner, W
+   Naftel, HA
+   Stewart, PW
+   Moretz, RL
+   Light, KC
+AF Girdler, SS
+   Maixner, W
+   Naftel, HA
+   Stewart, PW
+   Moretz, RL
+   Light, KC
+TI Cigarette smoking, stress-induced analgesia and pain perception in men
+   and women
+SO PAIN
+AB This study examined gender differences in smoking-related analgesia and stress-induced analgesia (SIA), as a function of pain modality. Forty men (20 smokers, 20 nonsmokers) and 37 women (17 smokers) were tested twice for pain sensitivity to tourniquet ischemia, thermal heat, and cold pressor tests; once following mental stress and once following rest control, counterbalancing order. Cardiovascular and neuroendocrine responses to mental stress were also examined. While expected gender differences in pain sensitivity were observed, women smokers had greater threshold and tolerance times to ischemic pain than women nonsmokers (P < 0.05) when pain testing followed rest. Male smokers had greater threshold and tolerance to cold pressor pain than male nonsmokers (P < 0.05) after both rest and stress. Only women showed evidence for SIA, since women nonsmokers demonstrated greater ischemic pain threshold and tolerance following mental stress versus rest (P < 0.05), and all women reported lower thermal heat pain unpleasantness after stress versus rest (P = 0.05). Only nonsmokers showed expected inverse relationships between sympathetic and hypothalamic-pituitary-adrenal (HPA) axis reactivity measures and sensitivity to pain. Smokers showed evidence for blunted HPA-axis function at rest and stress. These results indicate that analgesia related to both being a smoker and stress is influenced by gender and pain modality. The reduced pain perception in smokers and absence of relationships between endogenous pain regulatory mechanisms and pain sensitivity may reflect a maladaptive response to chronic smoking. (c) 2005 International Association for the Study of Pain. Published by Elsevier B.V. All rights reserved.
+SN 0304-3959
+PD APR
+PY 2005
+VL 114
+IS 3
+BP 372
+EP 385
+DI 10.1016/j.pain.2004.12.035
+UT WOS:000228232400010
+PM 15777863
+ER
+
+PT J
+AU Mogil, JS
+   Richards, SP
+   OToole, LA
+   Helms, ML
+   Mitchell, SR
+   Belknap, JK
+AF Mogil, JS
+   Richards, SP
+   OToole, LA
+   Helms, ML
+   Mitchell, SR
+   Belknap, JK
+TI Genetic sensitivity to hot-plate nociception in DBA/2J and C57BL/6J
+   inbred mouse strains: Possible sex-specific mediation by delta(2)-opioid
+   receptors
+SO PAIN
+AB The inbred mouse strains, DBA/2J (D2) and C57BL/6J (B6), display differential sensitivity to acute, thermal nociception as measured on the hot-plate (HP) assay. In an ongoing quantitative trait locus (QTL) mapping study designed to reveal genomic loci showing genetic linkage to HP sensitivity, a putative QTL on chromosome 4 (50-80 cM from the centromere) has been identified that appears to account for variability in this trait in male, but not female mice. An obvious candidate gene located in this same chromosomal region is Oprd1, which encodes the murine delta-opioid receptor. Tn an attempt to evaluate whether Oprd1 represents this sex-specific QTL for HP sensitivity, we tested D2 and B6 mice of both sexes for HP latencies (hindpaw-lift, -lick or -flutter) following systemic injections of saline, or the opioid receptor antagonists naloxone (NAL; 0.1 and 10 mg/kg), nor-binaltorphimine (nor-BNI; 5 mg/kg), naltrindole (NTI; 5 mg/kg), 7-benzylidenenaltrexone (BNTX; 0.7 mg/kg), or naltriben (NTB; 1 mg/kg). High-dose (10 mg/kg) NAL lowered HP latencies in D2, but not B6 mice, suggesting that the higher HP latencies exhibited by D2 mice reflect opioid mechanisms. HP latencies in both strains and both sexes were unaffected by pretreatment with low-dose (0.1 mg/kg) NAL or nor-BNI, suggesting that neither mu nor kappa receptors affect basal nociceptive sensitivity. The delta-receptor antagonist, NTI, and the delta(2)-specific antagonist, NTB, (but not the delta(1)-specific antagonist, BNTX) effectively lowered HP latencies in a strain- and sex-dependent manner: D2 male > B6 male > D2 female > B6 female. These data support the possibility that Oprd1 is a QTL mediating HP sensitivity in mice, and more generally illustrate the important roles of genetic background and gender in the perception of pain. (C) 1997 International Association for the Study of Pain.
+SN 0304-3959
+PD APR
+PY 1997
+VL 70
+IS 2-3
+BP 267
+EP 277
+DI 10.1016/S0304-3959(97)03333-2
+UT WOS:A1997WX05600021
+PM 9150302
+ER
+
+PT J
+AU Landau, R
+   Kern, C
+   Columb, MO
+   Smiley, RM
+   Blouin, JL
+AF Landau, Ruth
+   Kern, Christian
+   Columb, Malachy O.
+   Smiley, Richard M.
+   Blouin, Jean-Louis
+TI Genetic variability of the mu-opioid receptor influences intrathecal
+   fentanyl analgesia requirements in laboring women
+SO PAIN
+AB Labor initiates one of the most intensely painful episodes in a woman's life. Opioids are used to provide analgesia with substantial interindividual variability in efficacy. p-Opioid receptor (mu OR, OPRM1) genetic variants may explain differences in response to opioid analgesia. We hypothesized that OPRM1 304A/G polymorphism influences the median effective dose (ED50) of intrathecal fentanyl via combined spinal-epidural for labor analgesia. Nulliparous women were prospectively recruited around 35 weeks gestation (n = 224), and genotyped for 304A/G polymorphism. Those requesting neuraxial labor analgesia were enrolled in one of the two double-blinded trials: Up-down sequential allocation (SA, n = 50) and a separate confirmatory random-dose allocation trial (RA, n = 97). Effective analgesia from intrathecal fentanyl was defined by >= 60 min analgesia with verbal rating score <= 1 (scale 0-10) and was compared between mu OR 304A homozygotes (Group A) and women carrying at least one 304G allele (Group G). OPRM1 304G allele frequency f(-) was 0.18. Using SA, intrathecal fentanyl ED50 was 26.8 mu g (95% Cl 22.7-30.9) in Group A and 17.7 mu g (95% Cl 13.4-21.9) in Group G (p < 0.001; 304A homozygosity increased the ED50 1.5-fold). RA confirmed that 304A homozygosity significantly increases intrathecal fentanyl ED50 (27.4 mu g in Group A and 12.8 mu g in Group G [P < 0.002; 2.1-fold]). We demonstrate for the first time that the mu OR 304G variant significantly reduces intrathecal fentanyl ED50 for labor analgesia, suggesting women with the G variant may be more responsive to opioids and require less analgesic drugs. These findings for intrathecal fentanyl pharmacogenetics may have implications for patients receiving opioids in other settings. (C) 2008 International Association for the Study of Pain. Published by Elsevier B.V. All rights reserved.
+RI Columb, Malachy/F-9588-2016
+OI Columb, Malachy/0000-0001-7837-4262
+SN 0304-3959
+EI 1872-6623
+PD SEP 30
+PY 2008
+VL 139
+IS 1
+BP 5
+EP 14
+DI 10.1016/j.pain.2008.02.023
+UT WOS:000260159200002
+PM 18403122
+ER
+
+PT J
+AU Fillingim, RB
+   Ness, TJ
+   Glover, TL
+   Campbell, CM
+   Hastie, BA
+   Price, DD
+   Staud, R
+AF Fillingim, RB
+   Ness, TJ
+   Glover, TL
+   Campbell, CM
+   Hastie, BA
+   Price, DD
+   Staud, R
+TI Morphine responses and experimental pain: Sex differences in side
+   effects and cardiovascular responses but not analgesia
+SO JOURNAL OF PAIN
+AB Sex differences in analgesic responses to g opioid agonists have been reported, although the direction of these differences varies across studies. To further characterize sex differences in responses to mu opioids, the analgesic effects of intravenous morphine (0.08 mg/kg) were determined in healthy women (n = 61) and men (n = 39) by using 3 experimental pain models, heat pain, pressure pain, and ischemic pain. Each pain procedure was conducted before and after double-blind administration of both morphine and saline, which occurred on separate days in counterbalanced order. Although morphine produced significant analgesic effects for all pain stimuli, no significant sex differences in morphine analgesia emerged. However, morphine attenuated cardiovascular reactivity to the ischemic pain task in men but not women, and women reported significantly more drug-related adverse effects than men. These findings are in contrast with some recent clinical and experimental results suggesting more robust analgesic response to mu opioids among women compared to men, although the data indicate that sex differences in non-analgesic effects of morphine were present. These results suggest that sex differences in responses to morphine might depend on the pain model and/or drug dose as well as the specific end point assessed.
+   Perspective: This study examines morphine responses in women and men by using laboratory pain measures. The results indicate no sex differences in analgesia, but women reported greater side effects, and morphine attenuated cardiovascular responses more strongly among men than women. These results add to the literature regarding sex differences in response to opioids. (C) 2005 by the American Pain Society.
+RI Price, Donald/A-3094-2008; Staud, Roland/A-8442-2008
+OI Price, Donald/0000-0002-8971-7184; Ness, Timothy/0000-0002-7908-4459
+SN 1526-5900
+PD FEB
+PY 2005
+VL 6
+IS 2
+BP 116
+EP 124
+DI 10.1016/j.jpain.2004.11.005
+UT WOS:000227111900007
+PM 15694878
+ER
+
+PT J
+AU Liu, NJ
+   Gintzler, AR
+AF Liu, NJ
+   Gintzler, AR
+TI Prolonged ovarian sex steroid treatment of male rats produces
+   antinociception: identification of sex-based divergent analgesic
+   mechanisms
+SO PAIN
+AB Simulation of the pregnancy blood concentration profile of 17 alpha-estradiol (E-2) and progesterone (P) in nonpregnant ovariectomized rats has been shown to result in a significant elevation of nociceptive response thresholds. The present report demonstrates that spinal opioid antinociceptive responsiveness to these ovarian steroids is not sex-specific. Treatment of orchidectomized sexually mature males with an analogous regimen of E-2 and P also elicits an antinociception, the robustness and temporal profile of which is comparable with that previously observed in females. Neither E-2 nor P, alone, is sufficient to produce antinociception in male rats, as was previously demonstrated in females. Neurobiological substrates and antinociceptive mechanisms underlying ovarian sex steroid antinociception do, however, exhibit sex specificity. In males, the analgesia resulting from ovarian steroid treatment derives from the independent contributions of spinal kappa and mu, not delta, opioid receptor pathways that are additive, not synergistic. Spinal alpha(2)-noradrenergic receptor activity and its attendant analgesic synergy with spinal opioid systems do not contribute to ovarian sex steroid analgesia in males. This is in contrast to the previous demonstrations that ovarian sex steroid-induced antinociception in females results from antinociceptive synergy between activated spinal kappa/delta opioid as well, as alpha(2)-noradrenergic receptor systems. The current data reveal that ovarian steroid-activated multiplicative spinal antinociceptive pathways that had been demonstrated in female rats are not manifest in their male counterparts. (C) 2000 International Association for the Study of Pain. Published by Elsevier Science B.V. All rights reserved.
+OI Liu, Nai-Jiang/0000-0003-2738-3147
+SN 0304-3959
+EI 1872-6623
+PD MAR
+PY 2000
+VL 85
+IS 1-2
+BP 273
+EP 281
+DI 10.1016/S0304-3959(99)00278-X
+UT WOS:000085652900033
+PM 10692628
+ER
+
+PT J
+AU Bickel, A
+   Dorfs, S
+   Schmelz, M
+   Forster, C
+   Uhl, W
+   Handwerker, HO
+AF Bickel, A
+   Dorfs, S
+   Schmelz, M
+   Forster, C
+   Uhl, W
+   Handwerker, HO
+TI Effects of antihyperalgesic drugs on experimentally induced hyperalgesia
+   in man
+SO PAIN
+AB In a double-blind, cross-over study, ibuprofen (600 mg), a peripherally-acting selective K-opioid receptor agonist (7.5 mg), or placebo were given orally in experiments on healthy volunteers 1 h before assessment of pain thresholds to radiant heal and of pain ratings to controlled mechanical impact stimuli. Mechanical and thermal hyperalgesia had been induced 24 h before by irradiating skin patches on the ventral side of the upper leg. UVB irradiation induced mechanical and thermal hyperalgesia at radiation dosages of three limes the minimal erythema dose. UVA irradiation resulted in an immediate erythema and a delayed tanning of the skin, however, no hyperalgesia was observed. For comparison another model of mechanical hyperalgesia was applied in the same experiments which has been previously proven sensitive to non-steroidal anti-inflammatory drugs (NSAIDs). In this model hyperalgesia was assessed, which develops during repetitive pinching of skin folds (pinch model). Ibuprofen significantly diminished heat and mechanical hyperalgesia induced by UVB, but had no effect on pain responses obtained from untreated skin. It also had an antihyperalgesic effect in the pinch stimulus paradigm. In contrast, the K-agonist showed no antihyperalgesic efficacy in the chosen models. It is concluded that the UVB model, as the pinch model, is suitable for establishing antihyperalgesic effects of NSAIDs, bur probably not of K-receptor agonists, in healthy human volunteers. Compared to the pinch stimulus model, the WE model offers additional advantages: (a) drugs may be tested after induction of the skin trauma by UV and this situation is more similar to the clinical use of antihyperalgesic drugs. (b) Since mechanical and thermal hyperalgesia is induced by UVB, drug effects can be tested upon both forms of hyperalgesia. (C) 1998 International Association for the Study of Pain. Published by Elsevier Science B.V.
+OI Schmelz, Martin/0000-0002-9736-7241
+SN 0304-3959
+PD JUN
+PY 1998
+VL 76
+IS 3
+BP 317
+EP 325
+DI 10.1016/S0304-3959(98)00062-1
+UT WOS:000075054700006
+PM 9718250
+ER
+
+PT J
+AU Daniell, HW
+   Lentz, R
+   Mazer, NA
+AF Daniell, HW
+   Lentz, R
+   Mazer, NA
+TI Open-label pilot study of testosterone patch therapy in men with
+   opioid-induced androgen deficiency
+SO JOURNAL OF PAIN
+AB We conducted a 24-week open-label pilot study of testosterone M patch therapy in 23 men with opioid-induced androgen deficiency (OPIAD). The T dosage was 5 mg/day for the first 12 weeks and 7.5 mg/day for the second 12 weeks. Seven subjects discontinued prematurely: 4 for noncompliance, 2 for skin irritation and 1 for hepatitis C treatment. In the "completers" population (n = 16), mean (SD) free T levels (normal range 52 to 280 pg/mL) were 28.5 (18.6) pg/mL at baseline, 72.8 (29.6) pg/mL on 5 mg/day (P < .001 vs. baseline), and 120.2 (69.5) pg/mL on 7.5 mg/day (P < .001 vs. baseline and P < .01 vs. 5 mg/day). Total T, dihydrotestosterone, and estradiol showed parallel changes. Sex hormone-binding globulin levels were elevated at baseline and decreased modestly with treatment (P < .05 vs. baseline at 5 mg/day; P < .01 vs. baseline at 7.5 mg/day). Luteinizing hormone levels were in the low-normal range at baseline and suppressed markedly with treatment (P < .001 vs. baseline at both doses). Androgen deficiency symptoms (ADSQ), sexual function (Watts SFQ), mood (PGWB), depression (BDI-II), and hematocrit levels showed improvement during treatment, generally more so at the 7.5 mg/day dosage (P < .001 vs. baseline for most parameters). Pain scores (BPI-SF) decreased slightly on 7.5 mg/day (interference score: P < .05 vs. baseline and 5 mg/day); the use of opioids did not change appreciably. The testosterone patches were generally well tolerated.
+   Perspective: Long-acting opioid preparations suppress the hypothalamic-pituitary-gonadal axis in men and produce a symptomatic state of opioid-induced androgen deficiency (OPIAD). Testosterone patch therapy at a dose of 7.5 mg/day normalizes hormone levels and appears to improve a number of quality of life parameters (eg, sexual function, well-being, mood) in men with OPIAD. (C) 2006 by the American Pain Society.
+SN 1526-5900
+PD MAR
+PY 2006
+VL 7
+IS 3
+BP 200
+EP 210
+DI 10.1016/j.jpain.2005.10.009
+UT WOS:000236234400007
+PM 16516826
+ER
+
+PT J
+AU Wuest, J
+   Merritt-Gray, M
+   Ford-Gilboe, M
+   Lent, B
+   Varcoe, C
+   Campbell, JC
+AF Wuest, Judith
+   Merritt-Gray, Marilyn
+   Ford-Gilboe, Marilyn
+   Lent, Barbara
+   Varcoe, Colleen
+   Campbell, Jacquelyn C.
+TI Chronic Pain in Women Survivors of Intimate Partner Violence
+SO JOURNAL OF PAIN
+AB In this descriptive study of chronic pain in a community sample of 292 women who had separated from their abusive partners on average 20 months previously, more than one-third experienced high disability pain as measured by Von Korff's Chronic Pain Grade. Beyond the usual pain locations associated with abuse, 43.2% reported swollen/painful joints. More interference in daily life was attributed to joint pain than to back, head, stomach, pelvic or bowel pain. Women with high disability pain were more likely to have experienced child abuse, adult sexual assault, more severe spousal abuse, lifetime abuse-related injuries, symptoms of depression and post-traumatic stress disorder, lifetime suicide attempts, difficulty sleeping, and unemployment. High disability pain also was associated with visits to a family doctor and psychiatrist and use of medication in more than prescribed dosages. Less than 25% of women with high disability pain were taking opioids, or prescription nonsteroidal anti-inflammatory medications. interestingly, high disability pain was not related to smoking, use of street drugs, potential for alcohol dependence, age, income, or education. The findings add to knowledge of severity and patterns of chronic pain in abused women and support the need for further multivariate analysis of the relationships among abuse experiences, mental health, and chronic pain severity to better inform decisions regarding diagnosis and treatment.
+   Perspective: Understanding patterns of chronic pain in abuse survivors and their associations with abuse history, mental health symptoms, health service use, and medication is important for clinical assessment and intervention. Chronic pain persisted long after leaving abusive partners and extended beyond usual locations (back, headache, pelvic, gastrointestinal) to include swollen/painful joints. (C) 2008 by the American Pain Society
+SN 1526-5900
+PD NOV
+PY 2008
+VL 9
+IS 11
+BP 1049
+EP 1057
+DI 10.1016/j.jpain.2008.06.009
+UT WOS:000260912700010
+PM 18701353
+ER
+
+PT J
+AU Terner, JM
+   Lomas, LM
+   Smith, ES
+   Barrett, AC
+   Picker, MJ
+AF Terner, JM
+   Lomas, LM
+   Smith, ES
+   Barrett, AC
+   Picker, MJ
+TI Pharmacogenetic analysis of sex differences in opioid antinociception in
+   rats
+SO PAIN
+AB Sex differences in opioid antinociception have been reported in rodents and monkeys, with opioids being more potent in males than females. In the present study, the influence of rat strain on sex differences in opioid antinociception was examined in a warm water tail-withdrawal procedure. Antinociceptive tests were conducted with the high-efficacy R-opioid morphine, and the less efficacious opioids buprenorphine. butorphanol and nalbuphine. Baseline nociceptive latencies were consistently higher in males than their female counterparts. Sex differences in opioid antinociception were observed in all strains tested, with the opioids being more potent and/or effective in males. The magnitude of the sex differences was related to the relative efficacy of the opioid, with morphine, buprenorphine, butorphanol and nalbuphine being on average 2.2-, 2.6-, 15.9- and 11.9-fold more potent in males. Sex differences also varied markedly across strains, with large differences consistently obtained in the F344 and F344-Sasco strains, moderate differences in the ACI, DA, Lewis, Sprague Dawley, Wistar and Wistar-Kyoto strains. and small differences in the Long Evans-Blue Spruce, Long Evans, Brown Norway and Holtzman strains. When compared across strains. there was no relationship between sex differences in nociceptive sensitivity and opioid sensitivity. These findings provide strong support for the role of genetic factors in determining sex differences in opioid antinociception, and suggest that the use of low-efficacy opioids, coupled with the use of rat strains that display small and large sex differences in opioid antinociception, may provide a sensitive tool to investigate the mechanisms underlying sex differences in opioid antinociception. (C) 2003 International Association for the Study of Pain. Published by Elsevier B.V. All rights reserved.
+SN 0304-3959
+PD DEC
+PY 2003
+VL 106
+IS 3
+BP 381
+EP 391
+DI 10.1016/j.pain.2003.08.008
+UT WOS:000187209600019
+PM 14659521
+ER
+
+PT J
+AU BRENNUM, J
+   ARENDTNIELSEN, L
+   HORN, A
+   SECHER, NH
+   JENSEN, TS
+AF BRENNUM, J
+   ARENDTNIELSEN, L
+   HORN, A
+   SECHER, NH
+   JENSEN, TS
+TI QUANTITATIVE SENSORY EXAMINATION DURING EPIDURAL-ANESTHESIA AND
+   ANALGESIA IN MAN - EFFECTS OF MORPHINE
+SO PAIN
+AB In a double-blind placebo-controlled cross-over study the effects of epidural morphine (4 mg) on somatosensory functions were investigated in 10 healthy volunteers. Detection, pain detection and pain tolerance thresholds to thermal, mechanical -nd electrical stimuli as well as magnitude rating of short-lasting stimuli of the same modalities were monitored before and for 10 h after epidural administration of 4 mg of morphine or saline. Epidural morphine induced a naloxone-reversible (0.1 mg/kg, i.v.) increase in pain detection threshold to heat and mechanical stimuli and in pain tolerance threshold to heat, mechanical and electrical stimuli. Morphine induced a more pronounced increase in the pain tolerance than in the pain detection threshold. Magnitude rating of short-lasting radiant heat (argon laser) stimuli were reduced by epidural morphine in comparison to placebo while there was no significant difference between the effects of morphine and placebo on magnitude rating of short-lasting mechanical and electrical stimuli. The warm detection threshold was increased (naloxone reversible) by morphine. Segmental distribution of pruritus was reported by 7 subjects following epidural morphine which was replaced by a short-lasting burning sensation following naloxone administration. Naloxone (0.1 mg/kg) preceeded by placebo did not change somatosensory functions. These results indicate that the somatosensory effect of epidural morphine is dependent on the types of afferent fibres activated as well as on the duration and intensity of the stimulus.
+RI Arendt-Nielsen, Lars/T-4885-2018; Jensen, Troels/A-3418-2009
+OI Jensen, Troels/0000-0002-3487-6380
+SN 0304-3959
+PD JAN
+PY 1993
+VL 52
+IS 1
+BP 75
+EP 83
+DI 10.1016/0304-3959(93)90117-8
+UT WOS:A1993KJ51200010
+PM 8446440
+ER
+
+PT J
+AU Nemmani, KVS
+   Grisel, JE
+   Stowe, JR
+   Smith-Carliss, R
+   Mogil, JS
+AF Nemmani, KVS
+   Grisel, JE
+   Stowe, JR
+   Smith-Carliss, R
+   Mogil, JS
+TI Modulation of morphine analgesia by site-specific N-methyl-D-aspartate
+   receptor antagonists: dependence on sex, site of antagonism, morphine
+   dose, and time
+SO PAIN
+AB Pharmacological blockade of N-methyl-D-aspartate (NMDA) receptors can modulate morphine analgesia in experimental animals and humans. However, this literature is highly inconsistent, with NMDA receptor antagonists variously shown to potentiate, attenuate or produce no effect on morphine analgesic magnitude. A number of factors influencing this modulation have been proposed, but no one has examined such factors simultaneously, and all existing studies in mice were conducted exclusively in male subjects. Thus, the influence of systemic administration of site-specific NMDA receptor antagonists-including dextromethorphan, dextrorphan, MK-801, LY235959, L-701,324, and Ro 25-6981-on morphine analgesia (15-45 mg/kg; 15, 30 and 60 min post-injection) was studied in male and female mice using the 49degreesC tail-withdrawal test. We found that oral and intraperitoneal dextromethorphan, a low-affinity non-competitive antagonist, dose-dependently potentiated low-dose morphine analgesia but attenuated high-dose morphine analgesia. Dextrorphan and MK-801 were found to potentiate low- but not high-dose morphine analgesia. The competitive glutamate-site antagonist, LY235959, and glycine-site antagonist, L-701,324, potentiated morphine analgesia at all doses. In contrast, the polyamine (NR2B) site antagonist, Ro 25-6981, attenuated morphine analgesia at all doses. Strikingly, the non-competitive antagonists produced no modulation of morphine analgesia whatsoever in female mice, whereas no sex differences were observed using competitive or NR2B antagonists. These findings indicate that NMDA modulation of morphine analgesia is critically influenced by sex, site of antagonism, morphine dose and time after injection. Our data suggest that NMDA antagonism via competitive or glycine site antagonism might result in more reliable clinical effects on morphine analgesia in both sexes. (C) 2004 International Association for the Study of Pain. Published by Elsevier B.V. All rights reserved.
+RI Grisel, Judith/I-6152-2013
+OI Grisel, Judith/0000-0001-9719-2739
+SN 0304-3959
+EI 1872-6623
+PD JUN
+PY 2004
+VL 109
+IS 3
+BP 274
+EP 283
+DI 10.1016/j.pain.2004.01.035
+UT WOS:000222039400012
+PM 15157688
+ER
+
+PT J
+AU Bradshaw, H
+   Miller, J
+   Ling, QD
+   Malsnee, K
+   Ruda, MA
+AF Bradshaw, H
+   Miller, J
+   Ling, QD
+   Malsnee, K
+   Ruda, MA
+TI Sex differences and phases of the estrous cycle alter the response of
+   spinal cord dynorphin neurons to peripheral inflammation and
+   hyperalgesia
+SO PAIN
+AB The neuromodulatory interactions of sex steroids with the opioid system may result in sex differences in pain and analgesia. Dynorphin is an endogenous kappa-opioid peptide that is upregulated in an animal model of peripheral inflammation and hyperalgesia and is possibly regulated by circulating levels of sex steroids. The present study compared behavioral responses of male, cycling female, and gonadectomized Sprague-Dawley rats in a model of persistent pain. Cycling female rats were behaviorally tested over a 14-day period, and their estrous cycles were monitored by daily vaginal smears. Thermal hyperalgesia was measured by paw withdrawal latencies taken prior to and 24-72 h after rats received a unilateral hindpaw injection of complete Freund's adjuvant (CFA). Prior to CFA administration, there was no significant difference in paw withdrawal latencies between male rats, cycling female rats, and ovariectomized female rats. Following CFA administration, female rats in proestrus exhibited significantly increased hyperalgesia compared with male rats, ovariectomized female rats, and female rats in other estrous stages (P less than or equal to 0.05). Levels of spinal preprodynorphin (PPD) mRNA induction in the L4-L5 segments were assessed by Northern blot analysis. PPD mRNA expression ipsilateral to the injected paw was significantly higher in female rats in diestrus (P less than or equal to 0.05) and proestrus (P less than or equal to 0.01) compared with rats in estrus and intact male rats. Ovariectomized rats had significantly higher levels of PPD mRNA expression compared with intact male rats (P less than or equal to 0.05). However, castrated male rats had significantly lower levels of PPD mRNA expression than intact male rats (P less than or equal to 0.05). PPD mRNA expression was not altered on the contralateral side of the spinal cord in any group. These results suggest a hormonal regulatory influence on the response of spinal cord dynorphin neurons to chronic inflammation and furthermore, that the association of the endocrine and opioid systems have the ability to influence an animal's sensitivity to pain. Published for the International Association for the Study of Pain by Elsevier Science B.V.
+RI Bradshaw, Heather/A-3333-2009
+SN 0304-3959
+PD MAR
+PY 2000
+VL 85
+IS 1-2
+BP 93
+EP 99
+DI 10.1016/S0304-3959(99)00253-5
+UT WOS:000085652900012
+PM 10692607
+ER
+
+PT J
+AU Jamison, RN
+   Butler, SF
+   Budman, SH
+   Edwards, RR
+   Wasan, AD
+AF Jamison, Robert N.
+   Butler, Stephen F.
+   Budman, Simon H.
+   Edwards, Robert R.
+   Wasan, Ajay D.
+TI Gender Differences in Risk Factors for Aberrant Prescription Opioid Use
+SO JOURNAL OF PAIN
+AB This is a longitudinal predictive study to examine gender differences in the clinical correlates of risk for opioid misuse among chronic pain patients prescribed opioids for pain. Two hundred seventy-five male and 335 female patients prescribed opioids for chronic noncancer pain were asked to complete a series of baseline questionnaires, including the revised Screener and Opioid Assessment for Pain Patients (SOAPP-R). After 5 months, the subjects were administered a structured prescription drug use interview (Prescription Drug Use Questionnaire; PDUQ) and submitted a urine sample for toxicology assessment. Their treating physicians also completed a substance misuse behavior checklist (Prescription Opioid Therapy Questionnaire; POTQ). At 5-month follow-up, women showed higher scores on the PDUQ (P < .05), whereas men had a higher incidence of physician-rated aberrant drug behavior on the POTQ (P < .05). An item analysis of the SOAPP-R, PDUQ, and POTQ showed that women tended to score higher on items relating to psychological distress, whereas the male patients tended to report having more legal and behavioral problems. These results suggest that risk factors associated with prescription opioid misuse may differ between men and women.
+   Perspective: Understanding gender differences in substance abuse risk among chronic pain patients is important for clinical assessment and treatment. This study suggests that women are at greater risk to misuse opioids because of emotional issues and affective distress, whereas men tend to misuse opioids because of legal and problematic behavioral issues. (C) 2010 by the American Pain Society
+OI Wasan, Ajay D./0000-0002-6394-6077; Butler, Stephen/0000-0002-6132-5883;
+   Jamison, Robert/0000-0003-1768-0906
+SN 1526-5900
+PD APR
+PY 2010
+VL 11
+IS 4
+BP 312
+EP 320
+DI 10.1016/j.jpain.2009.07.016
+UT WOS:000276658700003
+PM 19944648
+ER
+
+PT J
+AU Rhudy, JL
+   Meagher, MW
+AF Rhudy, JL
+   Meagher, MW
+TI Noise stress and human pain thresholds: Divergent effects in men and
+   women
+SO JOURNAL OF PAIN
+AB Considerable animal research suggests that exposure to noxious and nonnoxious fear-inducing stimuli can produce hypoalgesia. Although this effect is thought to generalize across species, only a few studies have examined the pain modulatory effects of nonnoxious fear-eliciting stimuli in humans. The present study examined whether exposure to a series of loud noise bursts would produce a fear-related hypoalgesia in male and female human subjects. Both subjective and physiologic measures (skin conductance level, heart rate) indicated that noise exposure resulted in fear, sympathetic arousal, and decreased pain reactivity in women (n = 20). In contrast, men (n = 20) did not experience fear or physiologic arousal, but reacted with surprise and increased pain reactivity. These findings provide additional evidence that hypoalgesia is mediated by fear and physiologic arousal. Although future studies should directly manipulate surprise, it appears that surprise without fear and physiologic arousal might enhance pain processing.
+SN 1526-5900
+PD FEB
+PY 2001
+VL 2
+IS 1
+BP 57
+EP 64
+DI 10.1054/jpai.2001.19947
+UT WOS:000166922300006
+PM 14622786
+ER
+
+PT J
+AU Aloisi, AM
+   Pari, G
+   Ceccarelli, I
+   Vecchi, I
+   Ietta, F
+   Lodi, L
+   Paulesu, L
+AF Aloisi, AM
+   Pari, G
+   Ceccarelli, I
+   Vecchi, I
+   Ietta, F
+   Lodi, L
+   Paulesu, L
+TI Gender-related effects of chronic non-malignant pain and opioid therapy
+   on plasma levels of macrophage migration inhibitory factor (MIF)
+SO PAIN
+AB Macrophage migration inhibitory factor (MIF) is a cytokine produced by neuroendocrine and immune tissues that possesses several characteristics of a neuroendocrine mediator. Chronic pain is known to affect and to be affected by neuroendocrine and immune mechanisms. In the present study, the plasma levels of MIF and several hormone, (cortisol, estradiol, testosterone) were determined to evaluate their mutual behaviour in controls and in chronic pain patients. Blood samples were collected from males and females divided into groups depending on their age (younger or older than 55) and health condition: (1) pain-free control subjects; (2) chronic non-malignant pain subjects. Moreover, two additional groups were added to evaluate the effects of short- and long-term opioid administration: (3) short-term opioid-treated chronic pain patients and (4) long-term opioid-treated chronic pain patients (longer than 6 months). MIT in control/younger men was higher than in all the other control and chronic pain groups. MIF was lower in pain patients than in controls of both sexes. MIF was not changed by morphine administration; its levels remained lower in opioid-treated subjects than in controls after both short- and long-lasting administration. Chronic pain changed hormone plasma levels differently in male and female patients. MIF was positively correlated with testosterone and negatively with estradiol. These results demonstrate sex differences in the younger men and women and a strong pain-induced decrease of MIF availability. These findings suggest the involvement of this cytokine in the sex differences observed in chronic pain conditions. &COPY; 2005 International Association for the Study of Pain. Published by Elsevier B.V. All rights reserved.
+RI Aloisi, Anna Maria/E-7183-2013; Ietta, Francesca/I-5307-2013;
+   Ceccarelli, Ilaria/G-9462-2012
+SN 0304-3959
+PD MAY
+PY 2005
+VL 115
+IS 1-2
+BP 142
+EP 151
+DI 10.1016/j.pain.2005.02.019
+UT WOS:000228942100015
+PM 15836977
+ER
+
+PT J
+AU Fillingim, RB
+   Edwards, RR
+AF Fillingim, RB
+   Edwards, RR
+TI The association of hormone replacement therapy with experimental pain
+   responses in postmenopausal women
+SO PAIN
+AB Considerable experimental research suggests that ovarian hormones can influence pain perception, and recent epidemiologic and clinical research suggests that exogenous hormone use may influence the prevalence and severity of clinical pain among women. However, to date no studies have examined the influence of hormone replacement therapy (HRT) on experimental pain responses and recent pain complaints among postmenopausal women. In this study, self-reported recent pain and general health were obtained, and thermal pain responses were assessed in three groups of healthy older adults: (1) women on HRT. (2) women not on HRT (No-HRT), and (3) men. Results indicated no group differences in recent pain complaints or self-reported health. but differences emerged for measures of thermal pain perception. Specifically, HRT women showed lower pain thresholds and tolerances than No-HRT women and men, and the latter two groups did not differ from each other. The potential explanations and limitations of the observed findings are discussed. (C) 2001 international Association for the Study of Pain. Published by Elsevier Science B.V. All rights reserved.
+SN 0304-3959
+PD MAY
+PY 2001
+VL 92
+IS 1-2
+BP 229
+EP 234
+DI 10.1016/S0304-3959(01)00256-1
+UT WOS:000168776500025
+PM 11323144
+ER
+
+PT J
+AU BRENNUM, J
+   DAHL, JB
+   MOINICHE, S
+   ARENDTNIELSEN, L
+AF BRENNUM, J
+   DAHL, JB
+   MOINICHE, S
+   ARENDTNIELSEN, L
+TI QUANTITATIVE SENSORY EXAMINATION OF EPIDURAL-ANESTHESIA AND ANALGESIA IN
+   MAN - EFFECTS OF PRETRAUMATIC AND POSTTRAUMATIC MORPHINE ON HYPERALGESIA
+SO PAIN
+AB The objectives of the study were: (1) comparison of hypoalgesic effects of pre- and post-traumatic epidural morphine (EM) on primary and secondary hyperalgesia, and (2) comparison of EM hypoalgesia in normal and injured skin. Burn injuries (25 x 50 mm rectangular thermode, 47 degrees C, 7 min) were produced on the calves of healthy volunteers, at 2 different days at least 1 week apart. In randomized order, the subjects received 4 mg of EM administered via the L2-L3 intervertebral space on one day and no treatment on the other day. One calf was injured 30 min prior to and the other calf 2.5 h after administration of morphine. Hence, the calf injured prior to morphine administration was a model of postinjury treatment, and the calf injured after morphine administration, a model of pretraumatic treatment. The timing of injuries was identical on the morphine treatment and control days. The injuries induced decrease in heat pain detection and tolerance thresholds within the area of injury (area of primary hyperalgesia) as well as reduction of areas of allodynia for brush and pinprick surrounding the injury (area of secondary hyperalgesia). Both pre- and post-traumatic administration of EM increased heat pain detection and tolerance thresholds, and decreased by approximately 50% the areas of secondary hyperalgesia 2.5 h postinjury. The effects of morphine were naloxone (NAL)-reversible (0.1 mg/kg, i.v.). There was no significant difference between pre- and post-traumatic administration of morphine on the effect of either primary or secondary hyperalgesia. EM increased the heat pain detection threshold more within the injury than at a corresponding non-injured site. There was no significant difference in the effect of morphine on heat pain tolerance in injured and non-injured skin. Following NAL, the areas of secondary hyperalgesia expanded beyond control size. It is suggested that the major effect of EM on secondary hyperalgesia is inhibition of C fibre-mediated activity which maintains the altered response properties of central neurones responsible for secondary hyperalgesia. Possible mechanisms of action of NAL in enhancement of hyperalgesia are discussed.
+RI Arendt-Nielsen, Lars/T-4885-2018
+SN 0304-3959
+PD NOV
+PY 1994
+VL 59
+IS 2
+BP 261
+EP 271
+DI 10.1016/0304-3959(94)90079-5
+UT WOS:A1994PR72900013
+PM 7892024
+ER
+
+PT J
+AU Kavaliers, M
+   Galea, LAM
+AF Kavaliers, M
+   Galea, LAM
+TI Sex differences in the expression and antagonism of swim stress-induced
+   analgesia in deer mice vary with the breeding season
+SO PAIN
+AB Swim stress-induced analgesia (SSIA) was examined in photoperiodically induced breeding (reproductive) and 'non-breeding' (non-reproductive) adult male and female deer mice, Peromyscus maniculatus. Nociceptive responses (50 degrees C, hot-plate) of breeding and non-breeding deer mice were determined after either a 1-or 3-min swim in 20 degrees C water. The 1-min swim induced an immediate and relatively short-lasting naloxone (1.0 mg/kg) insensitive 'non-opioid'-mediated SSIA that was antagonized by the N-methyl-D-aspartate (NMDA) antagonist, MK-801 (0.10 mg/kg) in all of the groups of mice except the breeding (reproductive) females. Breeding females displayed a non-opioid analgesia that was insensitive to MK-801. The 3-min swim induced a relatively more prolonged mixed opioid and 'non-opioid' SSIA of which the initial portion was sensitive to antagonism by MK-801 in all groups of the mice except the breeding females, while the latter portion (15 min after swim) was reduced by naloxone in all of the groups of mice. Overall, the breeding males displayed greater levels of SSIA than the breeding females, with no consistent sex differences in the non-breeding mice. Within sexes, the breeding males displayed greater levels of opioid and non-opioid SSIA than the non-breeding males, while the non-breeding females displayed greater levels of SSIA than the breeding females. These results show that both sex and reproductive status affect the expression and neurochemical mediation of non-opioid SSIA. These findings also suggest that reproductive females may have an unique or novel hormonally (estrogen) dependent mechanism associated with the expression of SSIA.
+OI Galea, Liisa/0000-0003-2874-9972
+SN 0304-3959
+PD DEC
+PY 1995
+VL 63
+IS 3
+BP 327
+EP 334
+DI 10.1016/0304-3959(95)00063-1
+UT WOS:A1995TL90200006
+PM 8719533
+ER
+
+PT J
+AU Basaria, S
+   Trayison, TG
+   Alford, D
+   Knapp, PE
+   Teeter, K
+   Cahalan, C
+   Eder, R
+   Lakshman, K
+   Bachman, E
+   Mensing, G
+   Martel, MO
+   Le, D
+   Stroh, H
+   Bhasin, S
+   Wasan, AD
+   Edwards, RR
+AF Basaria, Shehzad
+   Trayison, Thomas G.
+   Alford, Daniel
+   Knapp, Philip E.
+   Teeter, Kjersten
+   Cahalan, Christine
+   Eder, Richard
+   Lakshman, Kishore
+   Bachman, Eric
+   Mensing, George
+   Martel, Marc O.
+   Le, Dillon
+   Stroh, Helene
+   Bhasin, Shalender
+   Wasan, Ajay D.
+   Edwards, Robert R.
+TI Effects of testosterone replacement in men with opioid-induced androgen
+   deficiency: a randomized controlled trial
+SO PAIN
+AB Symptomatic androgen deficiency is common in patients taking opioid analgesics, as these drugs potently suppress the hypothalamic-pituitary-gonadal axis. However, the efficacy of testosterone replacement in this setting remains unclear. The objective of this trial was to evaluate the efficacy of testosterone replacement on pain perception and other androgen-dependent outcomes in men with opioid-induced androgen deficiency. We conducted a randomized, double-blind, parallel placebo-controlled trial at an outpatient academic research center. Participants were men aged 18 to 64 years on opioid analgesics for chronic noncancer pain, and total testosterone levels were <350 ng/dL. Participants were randomly assigned to 14 weeks of daily transdermal gel that contained 5 g of testosterone or placebo. Primary outcomes were changes in self-reported clinical pain and objectively assessed pain sensitivity. Sexual function, quality of life, and body composition were also assessed. The mean age was 49 years. The median total and free testosterone levels at baseline were 243 ng/dL and 47 pg/mL and 251 ng/dL and 43 pg/mL in the testosterone and placebo arm, respectively. Of the 84 randomized participants, 65 had follow-up data, on efficacy outcomes. compared with men assigned to the placebo arm, those assigned to testosterone replacement experienced greater improvements in pressure and mechanical hyperalgesia, sexual desire, and role limitation due to emotional problems. Testosterone administration was also associated with an improvement in body composition. There were no between-group differences in changes in self-reported pain. In conclusion, in men with opioid-induced androgen deficiency, testosterone administration improved pain sensitivity, sexual desire, body composition, and aspects of quality of life.
+OI Wasan, Ajay D./0000-0002-6394-6077
+SN 0304-3959
+EI 1872-6623
+PD FEB
+PY 2015
+VL 156
+IS 2
+BP 280
+EP 288
+DI 10.1097/01.j.pain.0000460308.86819.aa
+UT WOS:000348973700012
+PM 25599449
+ER
+
+PT J
+AU Gear, RW
+   Miaskowski, C
+   Gordon, NC
+   Paul, SM
+   Heller, PH
+   Levine, JD
+AF Gear, RW
+   Miaskowski, C
+   Gordon, NC
+   Paul, SM
+   Heller, PH
+   Levine, JD
+TI Action of naloxone on gender-dependent analgesic and antianalgesic
+   effects of nalbuphine in humans
+SO JOURNAL OF PAIN
+AB Previously, we have shown that the kappa-opioid analgesic nalbuphine, when administered at a low dose to treat postoperative pain after extraction of impacted third molar teeth, produced a marked increase in pain in men, whereas in women the effect of this dose was similar to placebo. In the current study, employing the same postoperative model, we found that coadministration of naloxone, which had no analgesic action administered alone, not only reversed the expected pain-enhancing effect of nalbuphine in men, but produced a similar degree of long-lasting analgesia in both sexes. This result further suggests that, at the dose employed, although naloxone antagonizes the pain-enhancing effect, it does not antagonize the analgesic effect of nalbuphine. Although observed only in men, this antianalgesic action also might be present in women but offset by a similar degree of analgesia, thus explaining the lack of analgesia in women produced by this dose of nalbuphine alone. Such action would suggest that the previously reported gender differences in kappa-mediated analgesia might, in fact, be explained by a gender difference in kappa-mediated antianalgesia. By avoiding side effects associated with mu-opioid analgesics, this drug combination might become an important new pharmacological therapy for pain relief.
+SN 1526-5900
+PD SUM
+PY 2000
+VL 1
+IS 2
+BP 122
+EP 127
+DI 10.1016/S1526-5900(00)90097-X
+UT WOS:000089481200008
+ER
+
+PT J
+AU Baker, L
+   Ratka, A
+AF Baker, L
+   Ratka, A
+TI Sex-specific differences in levels of morphine, morphine-3-glucuronide,
+   and morphine antinociception in rats
+SO PAIN
+AB A number of studies reported striking differences in antinociceptive responses to morphine as a function of sex. Although sex differences in the sensitivity to morphine are widely characterized in rodents, the underlying causes are not identified. Gonadal steroids are believed to contribute to sex differences in response to opioid-induced antinociception. In rats, morphine is metabolized by glucuronidation to morphine-3-glucuronide (M3G). M3G was found to be a functional antagonist of the actions of morphine. Knowledge about the role morphine glucuronides play in sex-specific responses to the antinociceptive effect of morphine may be useful in evaluating therapeutic outcomes of morphine treatment. The purpose of this project was to investigate the effects of sex on the systemic formation of M3G in rats and to correlate glucuronidation variability with differences in antinociceptive responses to morphine, Female rats showed significantly lower morphine-induced antinociception as compared to mate rats; 4.6 +/- 0.5 s vs. 11.7 +/- 2.2 s, respectively. Female rats also demonstrated about three-fold higher maximum plasma levels of M3G compared with male rats: 6.2 +/- 2.2 muLg/ml vs. 1.9 +/- 0.7 mug/ml, respectively. The M3G:morphine AUC ratio was 6.6:1 in female rats and 0.7:1 in male rats. Gonadectomy only partially eliminated sex differences in morphine antinociception and plasma levels of M3G. The results of this study demonstrate that sex and sex differences in the M3G:morphine plasma ratio may play a role in mate-female differences observed in morphine antinociception. (C) 2002 International Association for the Study of Pain. Published by Elsevier Science B.V. All rights reserved.
+SN 0304-3959
+PD JAN
+PY 2002
+VL 95
+IS 1-2
+BP 65
+EP 74
+DI 10.1016/S0304-3959(01)00376-1
+UT WOS:000173772500008
+PM 11790468
+ER
+
+PT J
+AU Gioiosa, L
+   Chen, XQ
+   Watkins, R
+   Umeda, EA
+   Arnold, AP
+AF Gioiosa, Laura
+   Chen, Xuqi
+   Watkins, Rebecca
+   Umeda, Elizabeth A.
+   Arnold, Arthur P.
+TI Sex Chromosome Complement Affects Nociception and Analgesia in Newborn
+   Mice
+SO JOURNAL OF PAIN
+AB In animal studies of nociception, females are often more sensitive to painful stimuli, whereas males are often more sensitive to analgesia induced by mu-agonists. Sex differences are found even at birth, and in adulthood are likely caused, at least in part, by differences in levels of gonadal hormones. In this report, we investigate nociception and analgesia in neonatal mice and assess the contribution of the direct action of sex chromosome genes in hotplate and tail withdrawal tests. We used the 4 core genotypes mouse model, in which gonadal sex is independent of the complement of sex chromosomes (XX vs XY). Mice were tested at baseline and then injected with ut-opioid agonist morphine (10 mg/kg) or with the kappa-opioid agonist U50,488H (U50, 12.5 mg/kg) with or without the N-methyl-D-aspartate (NMDA) receptor antagonist MK-801 (0.1 mg/kg). On the day of birth, XX mice showed faster baseline latencies than XY in tail withdrawal, irrespective of their gonadal type. Gonadal males showed greater effects of morphine than gonadal females in the hotplate test, irrespective of their sex chromosome complement. U50 and morphine were effective analgesics in both tests, but MK-801 did not block the U50 effect. The results suggest that sex chromosome complement and gonadal secretions both contribute to sex differences in nociception and analgesia by the day of birth.
+   Perspective: Sex differences in pain may stem not only from the action of gonadal hormones on pain circuits but from the sex-specific action of X and Y genes. Identification of sex chromosome genes causing sex differences could contribute to better pain therapy in females and males. (C) 2008 by the American Pain Society
+SN 1526-5900
+PD OCT
+PY 2008
+VL 9
+IS 10
+BP 962
+EP 969
+DI 10.1016/j.jpain.2008.06.001
+UT WOS:000260070800011
+PM 18635401
+ER
+
+PT J
+AU Frew, AK
+   Drummond, PD
+AF Frew, Ashley K.
+   Drummond, Peter D.
+TI Negative affect, pain and sex: The role of endogenous opioids
+SO PAIN
+AB Opioid neurotransmission modulates pain and negative affect during psychological stress. To determine whether these effects differ between men and women, the opioid receptor antagonist naltrexone or placebo was administered double-blind to 21 men and 22 women before they completed 30 min of difficult mental arithmetic. To heighten negative affect, participants received seven moderately noxious electric shocks during the math task, which were believed to be contingent upon performance. Before and after the math task, participants rated pain intensity and unpleasantness while their left hand was immersed in 2 degrees C water for up to 4 min. Anxiety, discouragement and anger were also rated before, during and after the math task. Tolerance of cold-induced pain was greater in men, whereas discouragement during the math task was greater in women. Opioid blockade did not influence ratings of negative affect, which increased in line with the intensity and unpleasantness of shock-induced pain. The intensity and unpleasantness of cold-induced pain increased after the math task only in women administered naltrexone. Within the naltrexone condition, pain ratings increased most in the most discouraged subjects. However, this relationship was absent in placebo recipients, implying that the hyperalgesic effect of psychological distress was tempered by opioid release. Greater stress-evoked discouragement in women than men may explain why cold-induced pain increased after the math task only in women administered naltrexone. (C) 2007 International Association for the Study of Pain. Published by Elsevier B.V. All rights reserved.
+SN 0304-3959
+PD NOV
+PY 2007
+VL 132
+SU 1
+BP S77
+EP S85
+DI 10.1016/j.pain.2007.04.010
+UT WOS:000251673600010
+PM 17512663
+ER
+
+PT J
+AU Robinson, ME
+   Riley, JL
+   Brown, FF
+   Gremillion, H
+AF Robinson, ME
+   Riley, JL
+   Brown, FF
+   Gremillion, H
+TI Sex differences in response to cutaneous anesthesia: a double blind
+   randomized study
+SO PAIN
+AB The existing literature on experimentally induced pain indicates that there are sex differences, with females displaying greater sensitivity. In epidemiological studies, sex differences are also noted in the prevalence of a number of pain syndromes, with females reporting more severe pain, more frequent pain, and pain of longer duration. Complicating the interpretation of pain differences between men and women in clinical samples are reports of sex differences in response to pain-reducing medications. Studies in human subjects suggest that women respond better to certain opioid analgesics than men following third molar extraction, but few studies have assessed sex effects in effectiveness of topical anesthetics. The purpose of this study was to test for sex differences in response to a topical anesthetic, Lidocaine, using double blind, placebo controlled experimental methodology, in combination with a magnitude matching psychophysical protocol using a pressure algometer. The subjects were 21 female and 23 male adult volunteers. Twenty-four subjects (12 males and 12 females) were randomly assigned to the Lidocaine condition and 20 subjects were randomly assigned to the placebo control condition (9 males and 11 females). The effect size across sex for subjects in the Lidocaine treatment condition on the response bias variable was large indicating the males rated the stimuli as less painful than the females. Sex differences were not observed for discriminability in the Lidocaine treatment condition. This study did not show sex differences in the placebo condition. These results are particularly interesting in light of previous work that has shown similar pain stimuli (pressure pain) to be the stimulation most sensitive to sex differences. Results of this study suggest that the protocol employed (pressure pain stimulus with magnitude matching task) is sensitive to both anesthetic treatment and sex differences and represents an improvement in pain assessment methodology for use in experimental studies and in the clinic. (C) 1998 International Association for the Study of Pain. Published by Elsevier Science B.V.
+RI Robinson, Michael/B-9765-2014
+SN 0304-3959
+EI 1872-6623
+PD AUG
+PY 1998
+VL 77
+IS 2
+BP 143
+EP 149
+DI 10.1016/S0304-3959(98)00088-8
+UT WOS:000075985700004
+PM 9766832
+ER
+
+PT J
+AU Lawson, KP
+   Nag, S
+   Thompson, AD
+   Mokha, SS
+AF Lawson, Kera P.
+   Nag, Subodh
+   Thompson, Analisa D.
+   Mokha, Sukhbir S.
+TI Sex-specificity and estrogen-dependence of kappa opioid
+   receptor-mediated antinociception and antihyperalgesia
+SO PAIN
+AB This investigation determined whether the activation of the kappa opioid receptor (KOR) in the spinal cord produces estrogen-dependent, sex-specific modulation of acute and inflammation-induced persistent nociception. We demonstrate for the first time that KOR antinociception and gene expression are enhanced by exogenous or endogenous estrogen in the female. The lack of KOR antinociception and KOR gene expression are not altered by the hormonal status (testosterone or estrogen) in males. Cannulae were implanted intrathecally in male, gonadectomized male (GDX), intact and ovariectomized female (OVX) Sprague-Dawley rats. Estradiol was injected subcutaneously, 48 h before testing (GDX+E and OVX+E). Intrathecal injection of U50,488H, a selective KOR agonist, dose dependently increased heat-evoked tail flick latencies (TFLs) in proestrous and OVX+E groups, but not in male, GDX, GDX+E, OVX, and diestrous groups. Further, estrogen dose-dependently enhanced the effect of U50,488H in OVX rats. KOR selective antagonist, norbinaltorphimine (Nor-BNI), blocked the antinociceptive effect of U50,488H. U50,488H reversed the carrageenan-induced thermal hyperalgesia in OVX+E rats, but not in male or OVX rats. However, U50,488H treatment did not alter mechanical thresholds in any group, with or without inflammation. KOR gene expression was enhanced in proestrous and OVX+E groups as compared to any other group. We conclude that selective activation of KOR in the spinal cord produces sex-specific, stimulus-and estrogen-dependent attenuation of acute and inflammatory pain in the rat via estrogen-induced upregulation of the KOR gene expression in the spinal cord. These findings may further implicate estrogen dependence of KOR effects in learning, epilepsy, stress response, addiction etc. (C) 2010 International Association for the Study of Pain. Published by Elsevier B.V. All rights reserved.
+OI Nag, Subodh/0000-0001-8834-4278
+SN 0304-3959
+EI 1872-6623
+PD DEC
+PY 2010
+VL 151
+IS 3
+BP 806
+EP 815
+DI 10.1016/j.pain.2010.09.018
+UT WOS:000283657300035
+PM 20926192
+ER
+
+PT J
+AU Vacca, V
+   Marinelli, S
+   Pieroni, L
+   Urbani, A
+   Luvisetto, S
+   Pavone, F
+AF Vacca, Valentina
+   Marinelli, Sara
+   Pieroni, Luisa
+   Urbani, Andrea
+   Luvisetto, Siro
+   Pavone, Flaminia
+TI Higher pain perception and lack of recovery from neuropathic pain in
+   females: A behavioural, immunohistochemical, and proteomic investigation
+   on sex-related differences in mice
+SO PAIN
+AB In experimental and clinical pain studies, the sex of subjects was rarely taken into account, even if nociceptive inputs appear to be processed and modulated by partially distinct neural mechanisms in each sex. In this study we analysed, in male and female mice, behavioural and neuronal responses in developing, maintaining, and recovering from neuropathic pain. Experiments were carried out in adult CD1 mice by using Chronic Constriction Injury (CCI) as neuropathic pain model. We investigated the temporal trend of mechanical nociceptive threshold together with functional recovery of the injured paw, and the immunofluorescence staining of proteins associated with nerve injury and repair and with spinal gliosis, 7 and 121 days after CCI. A proteomic analysis on proteins extracted from sciatic nerves was also performed. Male mice showed a gradual decrease of CCI-induced allodynia, the complete recovery occurring 81 days after the sciatic nerve ligation. On the contrary, in female mice, allodynia was still present 121 days after CCI. Sex-dependent differences also resulted from immunofluorescence experiments: in sciatic nerve, the expression of P0 and Neu200 is greater in neuropathic males than in neuropathic females, suggesting faster nerve regeneration. Proteomic analysis confirmed sex-related differences of proteins associated with nerve regenerative processes. In addition, the reactive gliosis induced by CCI at day 7, as revealed by colocalization of glial fibrillary acidic protein (astrocytes) and CD11b (microglia) with phosphorylated p38, disappeared 121 days after CCI in male but not in female mice. These results may have important therapeutic implications for the treatment of neuropathic pain. (C) 2013 International Association for the Study of Pain. Published by Elsevier B.V. All rights reserved.
+RI Luvisetto, Siro/M-9557-2015
+OI Luvisetto, Siro/0000-0003-1399-2152; Pieroni, Luisa/0000-0001-7141-1817;
+   Pavone, Flaminia/0000-0001-5189-2748; Marinelli,
+   Sara/0000-0001-5393-4796; Vacca, Valentina/0000-0003-2657-0450
+SN 0304-3959
+EI 1872-6623
+PD FEB
+PY 2014
+VL 155
+IS 2
+BP 388
+EP 402
+DI 10.1016/j.pain.2013.10.027
+UT WOS:000329984200022
+PM 24231652
+ER
+
+PT J
+AU Liu, NJ
+   Gintzler, AR
+AF Liu, NJ
+   Gintzler, AR
+TI Gestational and ovarian sex steroid antinociception: relevance of
+   uterine afferent and spinal alpha(2)-noradrenergic activity
+SO PAIN
+AB Pregnancy is associated with an antinociception that is multifactorial and results from spinal (kappa/delta) opioid antinociceptive pathways as well as peripheral processes (ovarian sex steroids, uterine afferent neurotransmission). The present results provide the first indication that the full manifestation of pregnancy-induced analgesia also requires a supraspinal component. The analgesia of gestation or its hormonal simulation (via estrogen and progesterone administration; HSP) is substantially attenuated (similar to 60%) following blockade of spinal alpha(2) (but not alpha(1)) adrenergic receptors. HSP antinociception is also attenuated by transection of the hypogastric nerve, the magnitude of which is indistinguishable from that produced by spinal alpha(2) receptor blockade. Additionally, hypogastric neurectomy abolishes the component of the antinociception associated with HSP that is mediated by spinal alpha(2) receptors. This suggests that the augmented spinal noradrenergic activity during HSP is not due to activation at the terminal of noradrenergic spinal projection neurons but requires supraspinal activity. It is suggested that enhanced spinal noradrenergic activity amplifies ongoing spinal kappa/delta antinociception as has been observed following the concomitant intrathecal application of alpha(2) and opioid agonists. The current observations underscore the importance of visceral afferent activity as well as its modulation by a female-specific hormonal milieu to the efficacy of endogenous spinal opioid antinociception. (C) 1999 International Association for the Study of Pain. Published by Elsevier Science B.V.
+OI Liu, Nai-Jiang/0000-0003-2738-3147
+SN 0304-3959
+EI 1872-6623
+PD NOV
+PY 1999
+VL 83
+IS 2
+BP 359
+EP 368
+DI 10.1016/S0304-3959(99)00120-7
+UT WOS:000083554500028
+PM 10534609
+ER
+
+PT J
+AU Kavaliers, M
+   Colwell, DD
+   Choleris, E
+AF Kavaliers, M
+   Colwell, DD
+   Choleris, E
+TI Sex differences in opioid and N-methyl-D-aspartate mediated non-opioid
+   biting fly exposure induced analgesia in deer mice
+SO PAIN
+AB There is evidence for sex differences in responses to noxious stimuli and in the expression and mediation of analgesia. In particular, results of investigations with swim stress and the more ethologically appropriate stress of predator odor exposure have suggested sex differences in N-methyl-D-aspartate (NMDA) receptor system involvement in the mediation of analgesia. Whether or not this sex difference generalizes to other environmental stressors is, however, not clear. Biting flies are a natural aversive stimuli commonly encountered by wild and domestic animals and humans. The present study examined the opioid and non-opioid mediated nociceptive (50 degrees C hot plate) responses of reproductive male and female deer mice, Peromyscus maniculatus, exposed to biting fly attack. A 30 min exposure to biting flies (stable flies, Stomoxys calcitrans (L.)) elicited a naloxone sensitive, opioid-mediated analgesia that was of a greater magnitude in males than in female deer mice. In contrast, a 5 min exposure to biting flies elicited a 'on-opioid' analgesia that was of similar magnitude in both sexes and insensitive to both naloxone and the specific kappa opiate antagonist, nor-binaltorphimine. In male mice this non-opioid analgesia was antagonised by the competitive NMDA antagonist, NPC 1262, while in reproductive females the biting fly-induced analgesia was insensitive to NPC 12626. These results show that there are sex differences in NMDA involvement in the mediation of the non-opioid analgesia arising from brief exposure to the stress of biting fly attack. These data from a common, natural environmental challenge support the presence of basic sex difference in NMDA involvement in the mediation of stress-induced analgesia. (C) 1998 International Association for the Study of Pain. Published by Elsevier Science B.V.
+OI Colwell, Doug/0000-0001-9917-6628; Choleris, Elena/0000-0001-5852-2176
+SN 0304-3959
+PD AUG
+PY 1998
+VL 77
+IS 2
+BP 163
+EP 171
+DI 10.1016/S0304-3959(98)00092-X
+UT WOS:000075985700006
+PM 9766834
+ER
+
+PT J
+AU Bereiter, DA
+   Bereiter, DF
+   Ramos, M
+AF Bereiter, DA
+   Bereiter, DF
+   Ramos, M
+TI Vagotomy prevents morphine-induced reduction in Fos-like
+   immunoreactivity in trigeminal spinal nucleus produced after TMJ injury
+   in a sex-dependent manner
+SO PAIN
+AB Acute injury to the temporomandibular joint (TMJ) region activates neurons in multiple, but spatially discrete, areas of the trigeminal spinal nucleus as seen by an increase in Fos-like immunoreactive neurons (Fos-LI). Pretreatment with morphine greatly reduces Fos-LI produced in the dorsal paratrigeminal area (dPa5), ventrolateral pole of the subnucleus interpolaris/caudalis (Vi/Vc-vl) transition region, and laminae I-II at the subnucleus caudalis/upper cervical cord junction (Vc/C2) suggesting a role for these areas in processing pain signals from the TMJ region. To determine if vagal afferents contribute to neural activation after TMJ injury or reduction of activity after morphine, Fos-LI was quantified in the lower brainstem and upper cervical spinal cord of intact and vagotomized male and female rats under barbiturate anesthesia. Bilateral cervical vagotomy (VgX) did not affect Fos-LI produced by TMJ injury in males or females in the absence of morphine. By contrast, morphine-induced reduction in Fos-LI produced at the Vi/Vc-vl transition region was prevented by prior VgX in males and diestrus females, but not in proestrus females. Morphine inhibition of Fos-LI produced in laminae I-II at the Vc/C2 junction region was diminished in vagotomized males compared to intact animals, but not affected in females. In an autonomic control area, the caudal ventrolateral medulla (CVLM), VgX reversed the morphine-induced reduction in Fos-LI in males and females similarly compared to their respective intact controls. These results were consistent with the hypothesis that the Vi/Vc-vl transition region plays a unique role in deep craniofacial pain processing and may integrate autonomic and opioid-related modulatory signals in a manner dependent on sex hormone status. (C) 2002 International Association for the Study of Pain. Published by Elsevier Science B.V. All rights reserved.
+SN 0304-3959
+PD MAR
+PY 2002
+VL 96
+IS 1-2
+BP 205
+EP 213
+AR PII S0304-3959(01)00450-X
+DI 10.1016/S0304-3959(01)00450-X
+UT WOS:000175738800023
+PM 11932076
+ER
+
+PT J
+AU Bobeck, EN
+   McNeal, AL
+   Morgan, MM
+AF Bobeck, Erin N.
+   McNeal, Amy L.
+   Morgan, Michael M.
+TI Drug dependent sex-differences in periaqueducatal gray mediated
+   antinociception in the rat
+SO PAIN
+AB Mu-opioid receptor (MOPr) agonists, such as morphine, produce greater antinociception in male compared to female rats. The ventolateral periaqueductal gray (vlPAG) appears to contribute to this sex-difference despite fewer vlPAG output neurons projecting to the rostral ventromedial medulla in male compared to female rats. This greater projection in female rats suggests that non-opioid activation of vlPAG output neurons should produce greater antinociception in female compared to male rats. This hypothesis was tested by comparing the time course and antinociceptive potency of microinjecting MOPr agonists (morphine, DAMGO, fentanyl) and non-opioid compounds (bicuculline, kainic acid) into the vlPAG of female and male rats. Microinjection of morphine or DAMGO produced antinociception that had a slow onset (peak from 15 to 30 min) and long duration (60 min) compared to the antinociception produced following microinjection of fentanyl, bicuculline, or kainic acid (peak effect at 3 min; duration less than 30 min). No sex-differences in the time courses were evident. All five compounds caused a dose-dependent antinociception when microinjected into the vlPAG. Antinociceptive potency was significantly greater in male compared to female rats following microinjection of morphine, DAMGO, and bicuculline, but not following microinjection of fentanyl or kainic acid. In no case did activation of the vlPAG produce greater antinocicepiton in female compared to male rats. These findings demonstrate that the vlPAG can produce comparable antinociception in female and male rats, but antinociception produced by inhibition of GABAergic neurons (whether by morphine or the GABAA receptor antagonist bicuculline) produces greater antinociception in males. (C) 2009 International Association for the Study of Pain. Published by Elsevier B. V. All rights reserved.
+OI Bobeck, Erin/0000-0001-8421-883X
+SN 0304-3959
+PD DEC 15
+PY 2009
+VL 147
+IS 1-3
+BP 210
+EP 216
+DI 10.1016/j.pain.2009.09.008
+UT WOS:000272612700034
+PM 19796879
+ER
+
+PT J
+AU Negus, SS
+   Zuzga, DS
+   Mello, NK
+AF Negus, SS
+   Zuzga, DS
+   Mello, NK
+TI Sex differences in opioid antinociception in rhesus monkeys: Antagonism
+   of fentanyl and U50,488 by quadazocine
+SO JOURNAL OF PAIN
+AB Sex differences have been observed in the antinociceptive effects of opioids in rodents and rhesus monkeys. Sex differences in the affinity of opioid ligands for opioid receptors may contribute to these findings. To test this hypothesis, the relative affinity of the competitive opioid antagonist quadazocine for mu and kappa opioid receptors was determined in rhesus monkeys using in vivo pA(2) analysis. The antinociceptive effects of the Ic opioid agonist fentanyl and the K opioid agonist U50,488 were determined alone and after pretreatment with cluadazocine in 4 females and 4 males using a warm-water tail-withdrawal assay of thermal nociception. The relative potency of quadazocine antagonism of fentanyl and U50,488 in females and males was used to assess sex differences in the relative affinity of quadazocine for mu and kappa receptors. Fentanyl was equipotent in female and male monkeys, and quadazocine was equipotent as an antagonist of fentanyl in females and males. In contrast, U50,488 was significantly less potent in females, and quadazocine was less potent as an antagonist of U50,488 in females. These findings suggest that opioid ligands have similar affinity for mu receptors but lower affinity for at least some kappa receptors in female than in male rhesus monkeys. (C) 2002 by the American Pain Society.
+SN 1526-5900
+PD JUN
+PY 2002
+VL 3
+IS 3
+BP 218
+EP 226
+DI 10.1054/jpai.2002.124734
+UT WOS:000176345200007
+PM 14622776
+ER
+
+PT J
+AU Braden, JB
+   Young, AC
+   Sullivan, MD
+   Walitt, B
+   LaCroix, AZ
+   Martin, L
+AF Braden, Jennifer Brennan
+   Young, Alicia
+   Sullivan, Mark D.
+   Walitt, Brian
+   LaCroix, Andrea Z.
+   Martin, Lisa
+TI Predictors of Change in Pain and Physical Functioning Among
+   Post-Menopausal Women With Recurrent Pain Conditions in the Women's
+   Health Initiative Observational Cohort
+SO JOURNAL OF PAIN
+AB Pain complaints are commonly reported symptoms among postmenopausal women and can have significant effects on health-related quality of life. We sought to identify medical and psychosocial factors that predict changes in pain and overall physical functioning over a 3-year period among postmenopausal women with recurrent pain conditions. We examined data from postmenopausal women age 50 to 79 with recurrent pain conditions (low back pain, neck pain, headache or migraines, or joint pain or stiffness) over a 3-year period using the Women's Health Initiative Observational Study Cohort (N = 67,963). Multinomial logistic regression models controlling for demographic and clinical characteristics were used to identify baseline predictors of change in the SF-36 subscales for pain and physical functioning between baseline and 3-year follow-up. Body mass index (BMI) was associated with worsening of pain (OR [95% Cl] 1.54 [1.45-1.63] for BMI >= 30) and physical functioning (1.83 [1.71-1.95] for BMI >= 30). A higher reported number of nonpain symptoms, higher medical comorbidity, and a positive screen for depression (1.13 [1.05-1.22] for worsened pain) were also associated with worsening of pain and physical functioning. Baseline prescription opioid use was also associated with lack of improvement in pain (OR .42, 95% Cl .36-.49) and with worsened physical functioning (1.25 [1.04-1.51]).
+   Perspective: This study presents prospective data on change in pain and physical functioning in postmenopausal women over a 3-year period. Our results suggest depression, nonpain physical symptoms, obesity, and possibly opioid treatment are associated with worse long-term pain outcomes in this population. (C) 2012 by the American Pain Society
+OI Martin, Lisa Warsinger/0000-0003-4352-0914
+SN 1526-5900
+PD JAN
+PY 2012
+VL 13
+IS 1
+BP 64
+EP 72
+DI 10.1016/j.jpain.2011.10.007
+UT WOS:000299198300008
+PM 22208802
+ER
+
+PT J
+AU Schnabel, A
+   Poepping, DM
+   Gerss, J
+   Zahn, PK
+   Pogatzki-Zahn, EM
+AF Schnabel, Alexander
+   Poepping, Daniel M.
+   Gerss, Joachim
+   Zahn, Peter K.
+   Pogatzki-Zahn, Esther M.
+TI Sex-related differences of patient-controlled epidural analgesia for
+   postoperative pain
+SO PAIN
+AB Gender differences in pain modulation are evident but data are rare with regard to perioperative regional analgesia. The aim of the present analysis was to assess gender-related differences in pain ratings, analgesic consumption, and adverse events in a large group of patients treated with patient-controlled epidural analgesia (PCEA) after major surgery. Data from 14,988 adult patients (6506 women; 8482 men) receiving a PCEA between January 1998 and December 2009 were examined. Demographic data and postoperative measurements assessed by the Acute Pain Service, including total PCEA consumption, pain scores, and complications, were analyzed by using PASW Statistics (18.0; SPSS Inc, Chicago, IL, USA). Beyond standard descriptive analyses, gender-related differences were investigated using a stepwise multivariate analysis of variances. Postoperative pain scores during rest and movement were almost equal between men and women. However, women showed lower total PCEA consumption consistently throughout the 5-day observation period (relative reduction by 1.7%-10.2% compared to men; P = 0.00). Total PCEA consumption did not interact with surgical site (abdomen, thorax, extremity) (P = 0.379) or age (<50, 50-75, >75 years; P = 0.330), but was influenced by body mass index (P = 0.017) and vomiting (P = 0.011). Furthermore, motor blockade was greater in females compared to males (P = 0.000). In patients treated with PCEA, gender differences in numeric rating scale scores exist but are not clinically relevant. However, reduced total PCEA consumption in women might be a consequence of an increased incidence of motor blockade and vomiting; the latter point towards an opioid-free PCEA solution in female patients at high risk for vomiting. (C) 2011 International Association for the Study of Pain. Published by Elsevier B. V. All rights reserved.
+RI GerSS, Joachim/B-5702-2013
+SN 0304-3959
+PD JAN
+PY 2012
+VL 153
+IS 1
+BP 238
+EP 244
+DI 10.1016/j.pain.2011.10.022
+UT WOS:000298368400033
+PM 22105008
+ER
+
+PT J
+AU Sternberg, WF
+   Smith, L
+   Scorr, L
+AF Sternberg, WF
+   Smith, L
+   Scorr, L
+TI Nociception and antinociception during the first week of life in mice:
+   Sex differences and test dependence
+SO JOURNAL OF PAIN
+AB This study demonstrates that reliable sex differences in nociceptive and antinociceptive mechanisms are present in even very young subjects. Sex differences were observed in mice tested either on the day of birth or 1 week later on basal tail-flick latency and morphine analgesic magnitude. Female mice had longer tail-withdrawal latencies; male mice demonstrated stronger analgesic responses to morphine. In addition, basal pain behavior and analgesic responsiveness differed between day-old and week-old animals on the hot plate, with day-old mice showing enhanced pain behavior and reduced morphine antinociception compared to week-old subjects. These findings further support the competence of pain processing circuitry in even very young subjects and highlight the early development of nociceptive and antinociceptive mechanisms.
+   Perspective: This study highlights the competence of nociceptive circuitry and the analgesic efficacy of morphine as early as the day of birth in mice, reinforcing the importance of evaluating and treating pain in even the youngest subjects. Sex differences were present, suggesting infant sex as one of several potential factors that predict the experience of procedural or pathological pain and analgesic requirement. (C) 2004 by the American Pain Society.
+SN 1526-5900
+PD OCT
+PY 2004
+VL 5
+IS 8
+BP 420
+EP 426
+DI 10.1016/j.jpain.2004.07.002
+UT WOS:000225313800002
+PM 15501423
+ER
+
+PT J
+AU Ulirsch, JC
+   Weaver, MA
+   Bortsov, AV
+   Soward, AC
+   Swor, RA
+   Peak, DA
+   Jones, JS
+   Rathlev, NK
+   Lee, DC
+   Domeier, RM
+   Hendry, PL
+   McLean, SA
+AF Ulirsch, Jacob C.
+   Weaver, Mark A.
+   Bortsov, Andrey V.
+   Soward, April C.
+   Swor, Robert A.
+   Peak, David A.
+   Jones, Jeffrey S.
+   Rathlev, Niels K.
+   Lee, David C.
+   Domeier, Robert M.
+   Hendry, Phyllis L.
+   McLean, Samuel A.
+TI No man is an island: Living in a disadvantaged neighborhood influences
+   chronic pain development after motor vehicle collision
+SO PAIN
+AB Living in a lower socioeconomic status neighborhood has been shown to alter stress system function and is associated with a number of adverse health outcomes, but its influence on musculoskeletal pain (MSP) outcomes after traumatic stress exposures such as motor vehicle collision (MVC) has not been assessed. We performed a multicenter, prospective study that enrolled 948 European-American individuals within 24 hours of MVC who were discharged home after emergency department evaluation. Follow-up evaluations were completed via telephone or Internet survey 6 weeks, 6 months, and 1 year after MVC on 91%, 89%, and 91% of participants, respectively. A robust aggregate measure of census tract neighborhood disadvantage was derived, and individual-level characteristics assessed included socioeconomic and demographic characteristics, pain prior to MVC, litigation status, and opioid use. MSP was assessed in the emergency department; MSP and pain interference with daily activity were assessed at 6 weeks, 6 months, and 1 year. After adjustment for individual-level factors, living in more disadvantaged neighborhoods was associated with increased MSP (P = 0.0009) and increased pain interference with daily function (P < 0.0001). The relationship between neighborhood disadvantage and MSP was moderated by a common single nucleotide polymorphism, rs2817038, 5' of the gene encoding FKBP5, a functional regulator of glucocorticoid receptor sensitivity (interaction P-value = 0.0015). These data support the hypothesis that low neighborhood socioeconomic status increases the likelihood of worse MSP outcomes after traumatic stress exposures such as MVC, and that this influence is mediated in part via its influence on stress system function. (C) 2014 International Association for the Study of Pain. Published by Elsevier B.V. All rights reserved.
+OI Ulirsch, Jacob/0000-0002-7947-0827; McLean, Samuel/0000-0001-9482-3582
+SN 0304-3959
+EI 1872-6623
+PD OCT
+PY 2014
+VL 155
+IS 10
+BP 2116
+EP 2123
+DI 10.1016/j.pain.2014.07.025
+UT WOS:000343831300030
+PM 25107859
+ER
+
+PT J
+AU Liu, NJ
+   Gintzler, AR
+AF Liu, Nai-Jiang
+   Gintzler, Alan R.
+TI Spinal Endomorphin 2 Antinociception and the Mechanisms That Produce It
+   Are Both Sex- and Stage of Estrus Cycle-Dependent in Rats
+SO JOURNAL OF PAIN
+AB Endomorphin 2 (EM2) is the predominant endogenous mu-opioid receptor (MOR) ligand in the spinal cord. Given its endogenous presence, antinociceptive responsiveness to the intrathecal application of EM2 most likely reflects its ability to modulate nociception when released in situ. In order to explore the physiological pliability of sex-dependent differences in spinal MOR-mediated antinociception, we investigated the antinociception produced by intrathecal EM2 in male, proestrus female, and diestrus female rats. Antinociception was reflected by changes in tail flick latency to radiant heat. In females, the spinal EM2 antinociceptive system oscillated between analgesically active and inactive states. During diestrus, when circulating estrogens are low, spinal EM2 antinociceptive responsiveness was minimal. In contrast, during proestrus, when circulating estrogens are high, spinal EM2 antinociception was robust and comparable in magnitude to that manifest by males. Furthermore, in proestrus females, spinal EM2 antinociception required spinal dynorphin and kappa-opioid receptor activation, concomitant with MOR activation. This is required for neither spinal EM2 antinociception in males nor the antinociception elicited in proestrus females by spinal sufentanil or [D-Ala(2),N-methyl-Phe(4),Gly-ol(5)]-enkephalin, which are prototypic MOR-selective nonpeptide and peptide agonists, respectively. These results reveal that spinal EM2 antinociception and the signaling mechanisms used to produce it fundamentally differ in males and females.
+   Perspective: The inability to mount spinal EM2 antinociception during defined stages of the estrus (and presumably menstrual) cycle and impaired transition from spinal EM2 analgesically nonresponsive to responsive physiological states could be causally associated with the well-documented greater severity and frequency of chronic intractable pain syndromes in women vs men. (C) 2013 by the American Pain Society
+OI Liu, Nai-Jiang/0000-0003-2738-3147
+SN 1526-5900
+PD NOV
+PY 2013
+VL 14
+IS 11
+BP 1522
+EP 1530
+DI 10.1016/j.jpain.2013.09.002
+UT WOS:000327047900026
+PM 24084000
+ER
+
+PT J
+AU Cajanus, K
+   Holmstrom, EJ
+   Wessman, M
+   Anttila, V
+   Kaunisto, MA
+   Kalso, E
+AF Cajanus, Kristiina
+   Holmstrom, Emil J.
+   Wessman, Maija
+   Anttila, Verneri
+   Kaunisto, Mari A.
+   Kalso, Eija
+TI Effect of endocannabinoid degradation on pain: role of FAAH
+   polymorphisms in experimental and postoperative pain in women treated
+   for breast cancer
+SO PAIN
+AB Fatty acid amide hydrolase (FAAH) metabolizes the endocannabinoid anandamide, which has an important role in nociception. We investigated the role of common FAAH single-nucleotide polymorphisms(SNPs) in experimentally induced and postoperative pain. One thousand women undergoing surgery for breast cancer participated in the study. They were tested for cold (n = 900) and heat pain (n = 1000) sensitivity. After surgery, their pain intensities and analgesic consumption were carefully registered. FAAH genotyping was performed using MassARRAY platform and genome-wide chip (n = 926). Association between 8 FAAH SNPs and 9 pain phenotypes was analyzed using linear regression models. The results showed that carrying 2 copies of a missense variant converting proline at position 129 to threonine (rs324420) resulted in significantly lower cold pain sensitivity and less need for postoperative analgesia. More specifically, rs324420 and another highly correlated SNP, rs1571138, associated significantly with cold pain intensity (corrected P value, 0.0014; recessive model). Patients homozygous for the minor allele (AA genotype) were less sensitive to cold pain (beta = -1.48; 95% CI, -2.14 to -0.8). Two other SNPs (rs3766246 and rs4660928) showed nominal association with cold pain, and SNPs rs4141964, rs3766246, rs324420, and rs1571138 nominal association with oxycodone consumption. In conclusion, FAAH gene variation was shown to associate with cold pain sensitivity with P129T/rs324420 being the most likely causal variant as it is known to reduce the FAAH enzyme activity. The same variant showed nominal association with postoperative oxycodone consumption. Our conclusions are, however, limited by the lack of replication and the results should be replicated in an independent cohort.
+RI Cajanus, Kristiina/F-9293-2016
+OI Cajanus, Kristiina/0000-0001-9621-633X; Kalso, Eija/0000-0002-4899-605X;
+   Kaunisto, Mari/0000-0002-6946-9195
+SN 0304-3959
+EI 1872-6623
+PD FEB
+PY 2016
+VL 157
+IS 2
+BP 361
+EP 369
+DI 10.1097/j.pain.0000000000000398
+UT WOS:000378257600012
+PM 26808012
+ER
+
+PT J
+AU Negus, SS
+   Wurrey, BA
+   Mello, NK
+AF Negus, SS
+   Wurrey, BA
+   Mello, NK
+TI Sex differences in thermal nociception and prostaglandin induced thermal
+   hypersensitivity in rhesus monkeys
+SO JOURNAL OF PAIN
+AB The present study examined thermal nociception in 4 male and 4 female rhesus monkeys. In the first experiment, monkeys were tested 5 days/week for 4 consecutive weeks in a warm-water, tail-withdrawal assay of thermal nociception. Thermal nociception did not vary by sex or menstrual cycle phase. However, male monkeys tended to be slightly more sensitive to thermal stimuli than female monkeys in the follicular phase of the menstrual cycle. Thermal nociception did not correlate with estradiol or progesterone levels in female monkeys. In the second experiment, thermal hypersensitivity was induced by administering prostaglandin E-2 (0.0032 to 0.1 mg subcutaneously) into the tail. Prostaglandin E-2 produced slightly greater thermal hypersensitivity in male than in follicular phase female monkeys, but male and luteal phase female monkeys did not differ, and there was not a significant difference between follicular and luteal phase female monkeys. Exposure to the behavioral procedures produced similar increases in blood levels of the stress-related hormones adrenocorticotropic hormone and cortisol in male and female monkeys, which suggests that measures of thermal nociception or thermal hypersensitivity were not confounded by sex differences in stress responses. These results suggest that sex and gonadal hormone levels have only a minor influence on thermal nociception or thermal hypersensitivity in rhesus monkeys.
+   Perspective: These modest effects of sex and gonadal hormone levels on measures of pain in nonhuman primates could be interpreted to support the hypothesis that sex differences in pain perception in humans are due more to sociocultural factors than to a biological imperative. (C) 2004 by the American Pain Society.
+SN 1526-5900
+PD MAR
+PY 2004
+VL 5
+IS 2
+BP 92
+EP 103
+DI 10.1016/j.jpain.2003.11.006
+UT WOS:000220771100004
+PM 15042517
+ER
+
+PT J
+AU Linnstaedt, SD
+   Hu, JM
+   Bortsov, AV
+   Soward, AC
+   Swor, R
+   Jones, J
+   Lee, D
+   Peak, D
+   Domeier, R
+   Rathlev, N
+   Hendry, P
+   McLean, SA
+AF Linnstaedt, Sarah D.
+   Hu, JunMei
+   Bortsov, Andrey V.
+   Soward, April C.
+   Swor, Robert
+   Jones, Jeffrey
+   Lee, David
+   Peak, David
+   Domeier, Robert
+   Rathlev, Niels
+   Hendry, Phyllis
+   McLean, Samuel A.
+TI mu-Opioid Receptor Gene A118 G Variants and Persistent Pain Symptoms
+   Among Men and Women Experiencing Motor Vehicle Collision
+SO JOURNAL OF PAIN
+AB The mu-opioid receptor 1 (OPRM1) binds endogenous opioids. Increasing evidence suggests that endogenous OPRM1 agonists released at the time of trauma may contribute to the development of posttraumatic musculoskeletal pain (MSP). In this prospective observational study, we evaluated the hypothesis that individuals with an AG or GG genotype at the OPRM1 A118 G allele, which results in a reduced response to opioids, would have less severe MSP 6 weeks after motor vehicle collision (MVC). Based on previous evidence, we hypothesized that this effect would be sex-dependent and most pronounced among women with substantial peritraumatic distress. European American men and women >= 18 years of age presenting to the emergency department after MVC and discharged to home after evaluation (N = 948) were enrolled. Assessments included genotyping and 6-week evaluation of overall MSP severity (0-10 numeric rating scale). In linear regression modeling, a significant A118 G Allele x Sex interaction was observed: an AG/GG genotype predicted reduced MSP severity among women with substantial peritraumatic distress (beta = -.925, P = .014) but not among all women. In contrast, men with an AG/GG genotype experienced increased MSP severity at 6 weeks (beta = .827, P = .019). Further studies are needed to understand the biologic mechanisms mediating observed sex differences in A118 G effects.
+   Perspective: These results suggest a sex-dependent mechanism by which an emotional response to trauma (distress) contributes to a biologic mechanism (endogenous opioid release) that increases MSP in the weeks after stress exposure. These results also support the hypothesis that endogenous opioids influence pain outcomes differently in men and women. (C) 2015 by the American Pain Society
+SN 1526-5900
+PD JUL
+PY 2015
+VL 16
+IS 7
+BP 637
+EP 644
+DI 10.1016/j.jpain.2015.03.011
+UT WOS:000357767400005
+PM 25842347
+ER
+
+PT S
+AU Mogil, JS
+AF Mogil, Jeffrey S.
+BE Cervero, F
+   Jensen, TS
+TI Sex, gender and pain
+SO PAIN
+SE Handbook of Clinical Neurology
+SN 0072-9752
+BN 978-0-08-054498-4; 978-0-44-451901-6
+PY 2006
+VL 81
+BP 325
+EP 341
+DI 10.1016/S0072-9752(06)80027-8
+UT WOS:000311077900026
+PM 18808845
+ER
+
+PT J
+AU Platts-Mills, TF
+   Hunold, KM
+   Weaver, MA
+   Dickey, RM
+   Fernandez, AR
+   Fillingim, RB
+   Cairns, CB
+   McLean, SA
+AF Platts-Mills, Timothy F.
+   Hunold, Katherine M.
+   Weaver, Mark A.
+   Dickey, Ryan M.
+   Fernandez, Antonio R.
+   Fillingim, Roger B.
+   Cairns, Charles B.
+   McLean, Samuel A.
+TI Pain Treatment for Older Adults During Prehospital Emergency Care:
+   Variations by Patient Gender and Pain Severity
+SO JOURNAL OF PAIN
+AB Older adults are less likely than younger adults to receive analgesic treatment during emergency department visits. Whether older adults are less likely to receive analgesics during protocolized prehospital care is unknown. We analyzed all ambulance transports in 2011 in the state of North Carolina and compared the administration of any analgesic or an opioid among older adults (aged 65 and older) versus adults aged 18 to 64. Complete data were available for 407,763 transports. Older men were less likely than younger men to receive an analgesic or an opioid regardless of pain severity. Among women with mild or moderate pain, older women were less likely than younger women to receive either form of pain treatment, but among women with more severe pain (pain score 8 or more), older women were more likely than younger women to receive pain treatment. Further, among women with mild or moderate pain, the oldest patients (aged 85 and older) were the least likely to receive any analgesic or an opioid, but among women with severe pain the oldest patients were the most likely to receive treatment. Further research is needed to assess the generalizability of this interaction between age, gender, and pain severity on pain treatment. Perspective: During prehospital care in North Carolina in 2011, older adults were generally less likely to receive pain treatment. However, older women with severe pain were more likely to receive treatment than younger women with severe pain. These results suggest an interaction between age, gender, and pain severity on pain treatment. (C) 2013 by the American Pain Society
+OI McLean, Samuel/0000-0001-9482-3582
+SN 1526-5900
+PD SEP
+PY 2013
+VL 14
+IS 9
+BP 966
+EP 974
+DI 10.1016/j.jpain.2013.03.014
+UT WOS:000324656000009
+PM 23726936
+ER
+
+PT J
+AU Olsen, RB
+   Bruehl, S
+   Nielsen, CS
+   Rosseland, LA
+   Eggen, AE
+   Stubhaug, A
+AF Olsen, Roy Bjorkholt
+   Bruehl, Stephen
+   Nielsen, Christopher Sivert
+   Rosseland, Leiv Arne
+   Eggen, Anne Elise
+   Stubhaug, Audun
+TI Gender Differences in Blood Pressure-Related Hypoalgesia in a General
+   Population: The Tromso Study
+SO JOURNAL OF PAIN
+AB An inverse association between resting blood pressure (BP) and acute pain sensitivity is well documented. Whether BP-related hypoalgesia differs by gender is unclear from prior work. Whether it increases proportionally with BP throughout the full BP range is also unknown. We examined BP-related hypoalgesia in a general population sample (n = 10,371, aged 30-87) of equal gender distribution reflecting the extremely low through hypertensive BP range. Resting BP was assessed and individuals participated in a standardized cold pressor test, providing pain ratings every 9 seconds. For systolic BP (SBP), a significant SBP x Gender interaction was observed on mean pain ratings (P < .001). Females displayed significant BP-related hypoalgesia (P < .001), with males showing a 38% smaller effect (P < .001). A similar DBP x Gender interaction was also observed (P < .05). Spline regression indicated a significant (P < .001) change in slope of the SBP pain association at 140 mmHg. Among individuals with lower resting SBP (<140/90), increasing hypoalgesia with increasing SBP levels was observed (P < .001), with no further increases in those with higher BP (>= 140190; P > .10). This is the first large-scale study to confirm past results suggesting that BP-related hypoalgesia differs by gender; that is, females exhibited greater hypoalgesia. BP-related hypoalgesia appears subject to ceiling effects in the hypertensive BP range.
+   Perspective: Females show greater BP-related hypoalgesia than males, highlighting gender differences in endogenous antinociceptive systems. Extent of BP-related hypoalgesia does not increase further once resting pressures reach the hypertensive range, suggesting persistent maximal demands on these antinociceptive systems among hypertensive individuals. (C) 2013 by the American Pain Society
+SN 1526-5900
+PD JUL
+PY 2013
+VL 14
+IS 7
+BP 699
+EP 708
+DI 10.1016/j.jpain.2013.01.780
+UT WOS:000321795400004
+PM 23809360
+ER
+
+PT J
+AU KLEMENT, W
+   MEDERT, HA
+   ARNDT, JO
+AF KLEMENT, W
+   MEDERT, HA
+   ARNDT, JO
+TI NALBUPHINE DOES NOT ACT ANALGESICALLY IN ELECTRICAL PAINFUL TOOTH-PULP
+   STIMULATION IN MAN
+SO PAIN
+AB Nalbuphine is a mixed opioid agonist/antagonist, the analgesic properties of which are still open to debate. In a randomized and placebo-controlled protocol, we compared its effects (0.2 mg/kg) on man's perception of multimodal stimuli (i.e., nociceptive, acoustic and visual) to those of aspirin (acetylsalicylic acid, 10 mg/kg) and meperidine (0.5 mg/kg). Amplitudes and latencies of the evoked potentials (EP), tolerance maxima to painful tooth pulp stimuli, and subjective intensity ratings were measured as indicators of drug induced perception differences. After nalbuphine, the EP amplitudes markedly decreased while the stimuli of each modality were rated by the subjects to be of higher intensity. Also, the tolerance maxima of painful tooth pulp stimulation were reduced by nalbuphine, and naloxone did not have additional effects.
+   In contrast, after aspirin and meperidine, the subjective pain ratings corresponded to the reduction of nociceptive EP amplitudes. Tolerance maxima to painful stimulation were also increased by both drugs. While aspirin did not influence acoustic and visual perception, meperidine caused a slight increase in EP amplitudes as well as in the intensity ratings of these stimuli relative to placebo. Thus, at the dose studied, nalbuphine did not act analgetically. The amplitude reduction of nociceptive EP suggested that nalbuphine had analgetic properties. These were, however, not confirmed by subjective pain ratings nor by changes in tolerance maxima.
+SN 0304-3959
+PD FEB
+PY 1992
+VL 48
+IS 2
+BP 269
+EP 274
+DI 10.1016/0304-3959(92)90068-M
+UT WOS:A1992HF81700023
+PM 1589246
+ER
+
+PT J
+AU Alvarez, P
+   Green, PG
+   Levine, JD
+AF Alvarez, Pedro
+   Green, Paul G.
+   Levine, Jon D.
+TI Neonatal Handling Produces Sex Hormone-Dependent Resilience to
+   Stress-Induced Muscle Hyperalgesia in Rats
+SO JOURNAL OF PAIN
+AB Neonatal handling (NH) of male rat pups strongly attenuates stress response and stress-induced persistent muscle hyperalgesia in adults. Because female sex is a well established risk factor for stress-induced chronic muscle pain, we explored whether NH provides resilience to stress-induced hyperalgesia in adult female rats. Rat pups underwent NH, or standard (control) care. Muscle mechanical nociceptive threshold was assessed before and after water avoidance (WA) stress, when they were adults. In contrast to male rats, NH produced only a modest protection against WA stress-induced muscle hyperalgesia in female rats. Gonadectomy completely abolished NH-induced resilience in male rats but produced only a small increase in this protective effect in female rats. The administration of the antiestrogen drug fulvestrant, in addition to gonadectomy, did not enhance the protective effect of NH in female rats. Finally, knockdown of the androgen receptor by intrathecal antisense treatment attenuated the protective effect of NH in intact male rats. Together, these data indicate that androgens play a key role in NH-induced resilience to WA stress-induced muscle hyperalgesia.
+   Perspective: NH induces androgen-dependent resilience to stress-induced muscle pain. Therefore, androgens may contribute to sex differences observed in chronic musculoskeletal pain and its enhancement by stress. (C) 2018 by the American Pain Society
+OI Green, Paul/0000-0001-7648-6826
+SN 1526-5900
+PD JUN
+PY 2018
+VL 19
+IS 6
+BP 670
+EP 677
+DI 10.1016/j.jpain.2018.01.009
+UT WOS:000434750800009
+PM 29432863
+ER
+
+PT J
+AU Burke, NN
+   Trang, T
+AF Burke, Nikita N.
+   Trang, Tuan
+TI Neonatal Injury Results in Sex-Dependent Nociceptive Hypersensitivity
+   and Social Behavioral Deficits During Adolescence, Without Altering
+   Morphine Response
+SO JOURNAL OF PAIN
+AB Neonatal injury is associated with persistent changes in sensory function and altered nociceptive thresholds that give rise to aberrant pain sensitivity in later life. Although these changes are well documented in adult rodents, little is known about the consequences of neonatal injury during adolescence. Because adolescence is a critical developmental period during which persistent pain conditions can arise, we examined the effect of neonatal injury on nociception, social behavior, and response to morphine in adolescent Sprague Dawley rats. Male and female rats exposed to plantar incision injury at postnatal day 3 displayed mechanical hypersensitivity that resolved by 24 hours after incision. When these animals reached adolescence (postnatal day 28-40), neonatally -injured male rats showed ipsilaterally restricted mechanical, heat, and cold hypersensitivity, as well as social behavioral deficits. In contrast, these effects were not seen in female rats. Neonatal injury did not alter acute morphine antinociception or the development of analgesic tolerance in either sex. Morphine-induced conditioned place preference, behavioral sensitization, and physical withdrawal were also not affected by neonatal incision. Thus, early-life injury results in sex-dependent pain related hypersensitivity and social behavior deficits during adolescence, without altering the response to opioids.
+   Perspective: Neonatal surgery has greater effects on adolescent male than female rats, resulting in pain-related hypersensitivity and social behavioral deficits. Neonatal surgery does not alter the anti-nociceptive effects of morphine or abuse liability. (C) 2017 by the American Pain Society
+OI Burke, Nikita/0000-0001-8688-1512
+SN 1526-5900
+PD NOV
+PY 2017
+VL 18
+IS 11
+BP 1384
+EP 1396
+DI 10.1016/j.jpain.2017.07.003
+UT WOS:000414381400010
+PM 28709955
+ER
+
+PT J
+AU Salas, J
+   Scherrer, JF
+   Ahmedani, BK
+   Copeland, LA
+   Bucholz, KK
+   Sullivan, MD
+   Burroughs, T
+   Schneider, FD
+   Lustman, PJ
+AF Salas, Joanne
+   Scherrer, Jeffrey F.
+   Ahmedani, Brian K.
+   Copeland, Laurel A.
+   Bucholz, Kathleen K.
+   Sullivan, Mark D.
+   Burroughs, Thomas
+   Schneider, F. David
+   Lustman, Patrick J.
+TI Gender and the Association between Long-Term Prescription Opioid Use and
+   New-Onset Depression
+SO JOURNAL OF PAIN
+AB Women have a higher prevalence of chronic noncancer pain conditions and report more severe pain, yet, it is not known if the association between long-term opioid analgesic use (OAU) and risk of a new depression episode (NDE) differs according to gender. We analyzed patient data from the Veterans Health Administration (VHA; 2000-2012; n=70,997) and a large private-sector health care organization (2003-2012; n=22,981) to determine whether long-term OAU and risk of NDE differed according to gender. Patients were free of depression and OAU for 2 years before baseline. OAU duration was defined as 1 to 30, 31 to 90 and more than 90 days, and NDE was defined according to International Classification of Diseases, Ninth Revision codes. Gender-stratified Cox proportional hazard models were used to estimate hazard ratios (HRs). Propensity scores and subsequent inverse probability of treatment weighting controlled for confounding. In the VHA, more than 90 compared with 1- to 30-day OAU was more strongly associated with NDE among female than male patients (female: HR=1.79 [95% confidence interval (CI), 1.45-2.22] vs male HR=1.25 [95% CI, 1.16-1.34], P=.002). In private sector patients, there was no gender difference in the association between more than 90-day OAU and NDE (female HR=1.97 [95% CI, 1.64-2.37] vs male HR=1.99 [95% CI, 1.44-2.74]). Risk of NDE after long-term OAU is similar in men and women in private sector patients but may differ for VHA patients. Future prospective studies are needed to identify mechanisms for the association between longer OAU and NDE.
+   Perspective: Existing research is mixed regarding gender differences in outcomes after long-term prescription opioid use. This study found both genders have increased risk of an NDE after more than 90 days of opioid use. Women and men may benefit from closer monitoring of mood associated with chronic opioid use. (C) 2017 by the American Pain Society
+OI Scherrer, Jeffrey/0000-0002-9148-2863; Salas,
+   Joanne/0000-0002-5604-7954; Schneider, David/0000-0002-9935-740X
+SN 1526-5900
+PD JAN
+PY 2018
+VL 19
+IS 1
+BP 88
+EP 98
+DI 10.1016/j.jpain.2017.09.004
+UT WOS:000419811000008
+PM 29030323
+ER
+
+EF
