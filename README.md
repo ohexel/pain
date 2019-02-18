@@ -68,3 +68,17 @@ Installing the client allows for two things:
 The former works "out-of-the-box" but does not return the same number of results as a manual search with an identical query. It is also not clear whether it queries the 'search' or the 'retrieve' API (probably the latter).
 
 The latter exceeds our Python abilities.
+
+
+## Leftovers
+This is our scratchpad. Links, code snippets, random thoughts, etc. go here.
+
+[parse xml](https://www.guru99.com/manipulating-xml-with-python.html)
+
+[trinket.io - python in your browser](https://trinket.io/)
+
+[pythonanywhere - python in your browser](https://www.pythonanywhere.com/try-ipython/)
+
+[wired w more resources on python in your browser](https://www.wired.com/2015/05/running-python-browser-awesome-think/)
+
+[minimally sufficient pandas](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)
