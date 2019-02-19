@@ -93,23 +93,23 @@ class WokmwsSoapClient():
         qparams = {
             'databaseId' : 'WOS',
             'userQuery' : query,
-            'queryLanguage' : 'en'
-            #'editions' : [{
-                #'collection' : 'WOS',
-                #'edition' : 'SCI',
-            #},{
-                #'collection' : 'WOS',
-                #'edition' : 'SSCI',
-            #}]
+            'queryLanguage' : 'en',
+            'editions' : [{
+                'collection' : 'WOS',
+                'edition' : 'SCI',
+            },{
+                'collection' : 'WOS',
+                'edition' : 'SSCI',
+            }]
         }
 
         rparams = {
             'count' : stack, # 1-100
             'firstRecord' : start,
-            #'fields' : [{
-            #    'name' : 'Relevance',
-            #    'sort' : 'D'
-            #}]
+            'fields' : [{
+                'name' : 'Relevance',
+                'sort' : 'D'
+            }]
         }
 
         return self.client['search'].service.search(qparams, rparams)
