@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python
 """
 Web of Knowledge search client
 2019/01
@@ -105,39 +105,49 @@ class WokmwsSoapClient():
 
         rparams = {
             'count' : stack, # 1-100
-            'firstRecord' : start,
-            'fields' : [{
-                'name' : 'Relevance',
-                'sort' : 'D'
-            }]
+            'firstRecord' : start
         }
 
         return self.client['search'].service.search(qparams, rparams)
-        
-soap = WokmwsSoapClient()
 
-# turn on logging for debugging
-"""
-logging.basicConfig(level=logging.INFO)
-logging.getLogger('suds.client').setLevel(logging.INFO)
-logging.getLogger('suds.transport').setLevel(logging.INFO)
-logging.getLogger('suds.xsd.schema').setLevel(logging.WARNING)
-logging.getLogger('suds.wsdl').setLevel(logging.INFO)
-logging.getLogger('suds.resolver').setLevel(logging.WARNING)
-logging.getLogger('suds.xsd.query').setLevel(logging.INFO)
-logging.getLogger('suds.xsd.basic').setLevel(logging.WARNING)
-logging.getLogger('suds.binding.marshaller').setLevel(logging.WARNING)
-"""
+    def retrieve(self, queryid, start, count):
+        self.queryId = str(queryid)
+        rparams = { 
+                'firstRecord' : int(start),
+                'count' : int(count),
+                'sortField' : [{
+                    'name' : 'PY',
+                    'sort' : 'D'
+                    }]
+                }
+                
+        return self.client['search'].service.retrieve(queryid, rparams)
+        
+def waiting(seconds):
+    minutes=seconds//60
+    print ("Wait %s minute(s)!" % minutes)
+    waittime=seconds
+    while waittime > 0:
+        time.sleep(5)
+        waittime-=5
+        if waittime == 0:
+            print("... let's go!")
+        else:
+            print("... %s seconds." % waittime)
 
 # define a search query
-query = 'TS=(opiod)  and TS=(gender) and TS=(women)'
+journal = 'SO=(JOURNAL OF PAIN) OR SO=(PAIN)'
+title = 'TI=(gender OR sex OR women)'
+keywords01 = 'TS=(gender OR sex OR women)'
+keywords02 = 'TS=((gender OR sex OR women) AND (opioid* OR opiate))'
+keywords03 = 'TS=((opioid* OR opiate*) AND (addiction OR dependence OR misuse))'
+query = str('(%s) AND (%s) AND (%s)' % (journal, title, keywords02))
 
 # get first result and get number of records found to define number of loops
 # since WoK web services only return 100 results at a time
-
-results = soap.search(query, 1, 1)
-time.sleep(1)   # necessary to avoid WoK block
-
+soap = WokmwsSoapClient()
+results = soap.search(query, 1, 0)
+queryid = ''
 for line in results:
     newline = str(line)
     newline = newline.strip(string.punctuation + string.whitespace)
@@ -146,64 +156,58 @@ for line in results:
         word = word.translate(None, 'recordsFound')
         word = word.strip(string.punctuation + string.whitespace)
         all_the_records = int(word)
+    if 'queryId' in newline:
+        queryid = newline[-1]
+print("There are %s records that match the query." % (all_the_records))
 
-print str(all_the_records)+" records matching the query have beend found."
 
-# get ALL the records
-# create output file for records and beautifulsoup object
-
-first = 1
-stack = 100
-count = 0
-cycles = all_the_records / stack
-stack_rest = all_the_records % stack
-
+# make timestamp
 year = time.localtime()[0]
 month = time.localtime()[1]
 day = time.localtime()[2]
 hour = time.localtime()[3]
 minute = time.localtime()[4]
 second = time.localtime()[5]
-
 time_stamp = '%s%s%s-%s%s%s' % (year,month,day,hour,minute,second)
 searchresults_filename = './tmp/%s-search-results.txt' % (time_stamp)
 
-temp_dict = {'Search file name':searchresults_filename, 'Time stamp':time_stamp, 'Search query':query, 'Number of results':all_the_records}
+# get ALL the records
+# create output file for records and beautifulsoup object
+first = 1
+stack = 100
+counter = 0
+cycles = all_the_records / stack
+stack_rest = all_the_records % stack
+print ("Writing search results to %s." % (searchresults_filename))
+outfile = open(searchresults_filename, 'w+')
+record = str()
+while counter <= cycles :
+    if counter == cycles:
+        stack = stack_rest
+    print ("Attempt: %s. Retrieving %s records. QueryId: %s." % (counter+1, stack, queryid))
+    results = soap.retrieve(queryid, start = first, count = stack)
+    first = first + 100
+    counter += 1
+    for line in results:
+        try:
+            newline = str(line)
+        except:
+            newline = "Encoding error"
+        outfile.write(newline)
+        outfile.write('\n')
+        record = record + newline + '\n'
+outfile.close()
+soap.close()
 
-# dump search results filename to json for later retrieval
+# dump session parameters to json for later retrieval
+temp_dict = {'Search file name':searchresults_filename, 'Time stamp':time_stamp, 'Search query':query, 'Number of results':all_the_records}
 if not os.access('./tmp/', os.W_OK):
-    os.mkdir('./tmp/', 0755)
+    os.mkdir('./tmp/', 0o755)
 session_file = './tmp/current-session.txt'
+print("Writing session parameters to %s." % session_file)
 if os.path.isfile(session_file):
     outfile = open(session_file,'w')
 else:
     outfile = open(session_file,'w+')
 json.dump(temp_dict,outfile)
 outfile.close()
-
-print "Search results are being written to "+searchresults_filename
-
-outfile = open(searchresults_filename, 'w+')
-record = str()
-
-while count <= cycles :
-    if count == cycles:
-        stack == stack_rest
-    results = soap.search(query, first, stack)
-    first = first + 100
-    count += 1
-
-    for line in results:
-        try:
-            newline = str(line)
-        except:
-            newline = "Encoding error"
-        # newline = newline.strip(string.punctuation + string.whitespace)
-        outfile.write(newline)
-        outfile.write('\n')
-        record = record + newline + '\n'
-    
-    time.sleep(1)
-    
-outfile.close()
-soap.close()

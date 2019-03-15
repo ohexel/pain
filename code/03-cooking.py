@@ -117,8 +117,7 @@ print "This is happening."
 
 # BeautifulSoup needs one and only one top-level tag
 # the Soap response and extraction method result in several concatenatd, 
-# same-level <records> tags. Therefore, I drop these and add a top-level
-# <allrecords> tag.
+# same-level <records> tags. Therefore, I add a top-level <allrecords> tag.
 
 infile = open('./tmp/current-session.txt','rU')
 temp_dict = json.load(infile)
@@ -130,14 +129,9 @@ time_stamp = temp_dict['Time stamp']
 infile = open(searchresults_xml, 'rU')
 fullrecords = ""
 for line in infile:
-    if ('<records' in line) or ('</records>' in line) or (line.isspace()):
-        continue
-    else:
-        fullrecords = fullrecords + line
+    fullrecords = fullrecords + line
 infile.close()
-
 fullrecords = fullrecords.strip()
-
 fullrecords = "<allrecords>" + "\n" + fullrecords + "</allrecords>"
 
 ### MAKE SOUP

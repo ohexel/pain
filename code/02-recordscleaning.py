@@ -21,10 +21,10 @@ def extract_full_records(filename):
 	# print len(bulk)
 
 	bulk_xml = str()
-	xml_count = bulk.count('queryId')		# find out how many queries are in the file (= nbr of <records>...</records> pieces)
+	xml_count = bulk.count("('records")		# find out how many queries are in the file (= nbr of <records>...</records> pieces)
 	
-	print xml_count
-	print filename
+	print(xml_count)
+	print(filename)
 
 	for i in range(xml_count):
 		start_record = bulk.index('<records')
@@ -75,13 +75,13 @@ infile.close()
 searchresults_filename = temp_dict['Search file name']
 searchresults_timestamp = temp_dict['Time stamp']
 
-print "Begin xml-ification."
+print("Begin xml-ification.")
 
 xmlfile = extract_full_records(searchresults_filename)
 
 out_filename = './tmp/%s-searchresults-xml.txt' % (searchresults_timestamp)
 
-print "Writing xml to %s." % (out_filename)
+print("Writing xml to %s." % (out_filename))
 
 data_out = open(out_filename, 'w')
 for line in xmlfile:
