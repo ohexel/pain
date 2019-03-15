@@ -1,0 +1,18 @@
+# Jane's queries
+```{r}
+(TS=(gender OR sex OR women) AND TI=(gender OR sex OR women) AND SO=(Pain OR The Journal of Pain: Official Journal of the American Pain Society))  AND LANGUAGE: (English) AND DOCUMENT TYPES: (Article)
+# n jane = 201
+# n ole = 436
+
+(TS=(gender OR sex OR women AND opioid* OR opiate) AND TI=(gender OR sex OR women) AND SO=(Pain OR The Journal of Pain: Official Journal of the American Pain Society)) AND LANGUAGE: (English) AND DOCUMENT TYPES: (Article)
+# n jane = 160
+# n ole = 323
+
+(TS=((opioid* OR opiate*) AND (addiction OR dependence OR misuse)) AND SO=(Pain OR The Journal of Pain: Official Journal of the American Pain Society)) AND LANGUAGE: (English) AND DOCUMENT TYPES: (Article)
+# n jane = 82
+# n ole = 5
+
+(TS=((gender OR sex OR women) AND (opioid* OR opiate)) AND TI=(gender OR sex OR women) AND SO=(Pain OR The Journal of Pain: Official Journal of the American Pain Society)) AND LANGUAGE: (English) AND DOCUMENT TYPES: (Article)
+# n jane = 31
+# n ole = 52
+```
