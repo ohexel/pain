@@ -1,4 +1,4 @@
-# Pain
+# WoS parser
 ## Goals:
 
 - programmatically query Web of Science
